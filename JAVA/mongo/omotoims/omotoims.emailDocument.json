@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "5e50e5169d7aba8ac882e32f"
+  },
+  "integrationKey": "4f5c740d-2ab7-4576-b808-27f958bb5863",
+  "integrationProviderName": "SendGrid",
+  "apiKey": "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",
+  "webhookKey": "cd8c164a-485c-4fc7-873a-c7b2fbf07420",
+  "createdAt": {
+    "$date": "2018-12-24T09:22:29.462Z"
+  },
+  "updatedAt": {
+    "$date": "2018-12-24T09:22:29.462Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailDocument"
+}]

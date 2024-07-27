@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "5ed202fc5318208bff4b5cd1"
+  },
+  "name": "ACCOUNT SETTINGS",
+  "configJson": {
+    "communicationSettings": [
+      {
+        "name": "Receive important notifications about my account",
+        "isSelected": true,
+        "isDisabled": true
+      },
+      {
+        "name": "Receive educational and training material about Omoto",
+        "isSelected": true,
+        "isDisabled": false
+      },
+      {
+        "name": "Receive promotional offers and new product announcements",
+        "isSelected": true,
+        "isDisabled": false
+      },
+      {
+        "name": "Receive feedback and beta feature evaluation requests",
+        "isSelected": false,
+        "isDisabled": false
+      },
+      {
+        "name": "Receive Omoto blog and best practices articles",
+        "isSelected": false,
+        "isDisabled": false
+      }
+    ],
+    "selectedTimeZone": "IST (GMT +05:30): Kolkata, Mumbai"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ed240cf5318208bff4b5cd2"
+  },
+  "name": "DEFAULT FEATURES",
+  "configJson": {
+    "noOfUsers": 17
+  }
+}]

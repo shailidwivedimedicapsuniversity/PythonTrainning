@@ -1,0 +1,97 @@
+/* Start of Survey Designer Header */
+
+.survey-designer-header {
+  height:8vh;
+  background: #141617;
+  width: 100%;
+  min-height: 4.5em;
+}
+
+.organization-logo {
+  content: url(https://cdn.omoto.io/omoto-logo.png);
+  margin-left: 8%;
+}
+
+
+.survey-designer-next-button {
+  background: #5A5A5A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  cursor: pointer;
+}
+.survey-designer-save-button {
+  background: #BDBDBD;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  cursor: pointer;
+}
+
+/* End of Survey Designer Header */
+
+
+
+/* Start of Survey Designer Status Bar */
+
+.survey-designer-status-bar {
+  width: 100%;
+  height: 3vh;
+  background: #141617;
+  border: 1px solid #141617;
+  min-height: 1.71em;
+  padding: 0 16px;
+}
+
+.editable-campaign-name {
+ width:170px;
+}
+
+.editable-campaign-name input {
+  width: 130px;
+  text-overflow: ellipsis;
+  border:none;
+  outline: none;
+}
+
+.survey-preview {
+  text-decoration: underline;
+  margin-left: 2px;
+}
+
+/* End of Survey Designer Status Bar */
+
+
+
+
+
+
+/* Start of Common styles for Temlate Selection Component and Update Survey Content Component */
+.nothing-to-do {
+  background: transparent;
+  content: url(https://cdn.omoto.io/nothing-to-display-default-screen.png);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+}
+
+.nothing-to-display-text {
+  margin-left: -13%;
+  margin-top: 1%;
+  margin-bottom: 0.5%;
+  color: #141617;
+}
+
+.preview-layout {
+  align-content: center;
+  background-color: #141617;
+  overflow: hidden;
+  height: 89vh;
+  flex: none !important;
+  position: relative;
+}
+
+/* End of Common styles for Temlate Selection Component and Update Survey Content Component */

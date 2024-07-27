@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "5ed0d443937877417b64d972"
+  },
+  "audienceName": "First audience",
+  "accountId": 18,
+  "createdBy": 19,
+  "updatedBy": 19,
+  "createdAt": {
+    "$date": "2020-05-29T09:22:11.365Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T09:22:11.365Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudiencesDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0f42e9378775b26ef9d2a"
+  },
+  "audienceName": "First audience",
+  "accountId": 4,
+  "description": "a",
+  "createdBy": 4,
+  "updatedBy": 4,
+  "createdAt": {
+    "$date": "2020-05-29T11:38:22.907Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T11:38:22.907Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudiencesDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1d04a9378770cfcbdf09a"
+  },
+  "audienceName": "AAAAAAAAA",
+  "accountId": 19,
+  "createdBy": 20,
+  "updatedBy": 20,
+  "createdAt": {
+    "$date": "2020-05-30T03:17:30.541Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T03:17:30.541Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudiencesDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1d2109378770cfcbdf0a4"
+  },
+  "audienceName": "Name 1",
+  "accountId": 19,
+  "description": "desc 1",
+  "createdBy": 20,
+  "updatedBy": 20,
+  "createdAt": {
+    "$date": "2020-05-30T03:25:04.532Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T03:25:04.532Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudiencesDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1f28b9378770cfcbdf0c7"
+  },
+  "audienceName": "Edited audience",
+  "accountId": 4,
+  "description": "Sample description",
+  "createdBy": 4,
+  "updatedBy": 4,
+  "createdAt": {
+    "$date": "2020-05-30T05:43:39.190Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T05:43:39.190Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudiencesDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1f3b99378770cfcbdf0cb"
+  },
+  "audienceName": "First audience",
+  "accountId": 4,
+  "createdBy": 4,
+  "updatedBy": 4,
+  "createdAt": {
+    "$date": "2020-05-30T05:48:41.689Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T05:48:41.689Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudiencesDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed208699378770a3933ac7c"
+  },
+  "audienceName": "tdga",
+  "accountId": 4,
+  "description": "rb",
+  "createdBy": 4,
+  "updatedBy": 4,
+  "createdAt": {
+    "$date": "2020-05-30T07:16:57.474Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T07:16:57.474Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudiencesDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed20c1e9378770ef895490a"
+  },
+  "audienceName": "Create audience testing",
+  "accountId": 4,
+  "createdBy": 4,
+  "updatedBy": 4,
+  "createdAt": {
+    "$date": "2020-05-30T07:32:46.398Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T07:32:46.398Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudiencesDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed245be93787745cef12ad0"
+  },
+  "audienceName": "fathats",
+  "accountId": 31,
+  "description": "hvga",
+  "createdBy": 32,
+  "updatedBy": 32,
+  "createdAt": {
+    "$date": "2020-05-30T11:38:38.596Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:38:38.596Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudiencesDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed24c6193787745cef12ae0"
+  },
+  "audienceName": "Demo campaign 1 audience",
+  "accountId": 34,
+  "description": "Demo campaign 1 audience description",
+  "createdBy": 35,
+  "updatedBy": 35,
+  "createdAt": {
+    "$date": "2020-05-30T12:06:57.879Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:06:57.879Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudiencesDocument"
+}]

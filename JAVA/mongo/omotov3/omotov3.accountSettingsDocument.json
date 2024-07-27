@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "5ed0af40ad6818f6c11e2ae4"
+  },
+  "accountId": 4,
+  "apiKey": "70c75d49-e48c-4214-8884-136cffa859fe",
+  "communicationSettings": [
+    {
+      "name": "Receive important notifications about my account",
+      "isSelected": true,
+      "isDisabled": true
+    },
+    {
+      "name": "Receive educational and training material about Omoto",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive promotional offers and new product announcements",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive feedback and beta feature evaluation requests",
+      "isSelected": false,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive Omoto blog and best practices articles",
+      "isSelected": true,
+      "isDisabled": false
+    }
+  ],
+  "selectedTimeZone": "IST (GMT +05:30): Kolkata, Mumbai",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AccountSettingsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed242029378773e902ffa91"
+  },
+  "accountId": 30,
+  "apiKey": "4d745b39-241b-4f1b-ab7d-9ef2b39f5500",
+  "communicationSettings": [
+    {
+      "name": "Receive important notifications about my account",
+      "isSelected": true,
+      "isDisabled": true
+    },
+    {
+      "name": "Receive educational and training material about Omoto",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive promotional offers and new product announcements",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive feedback and beta feature evaluation requests",
+      "isSelected": false,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive Omoto blog and best practices articles",
+      "isSelected": false,
+      "isDisabled": false
+    }
+  ],
+  "selectedTimeZone": "IST (GMT +05:30): Kolkata, Mumbai",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AccountSettingsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed242359378773e902ffa93"
+  },
+  "accountId": 31,
+  "apiKey": "bd417c98-db6a-48c1-867e-2fc26b55ad8f",
+  "communicationSettings": [
+    {
+      "name": "Receive important notifications about my account",
+      "isSelected": true,
+      "isDisabled": true
+    },
+    {
+      "name": "Receive educational and training material about Omoto",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive promotional offers and new product announcements",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive feedback and beta feature evaluation requests",
+      "isSelected": false,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive Omoto blog and best practices articles",
+      "isSelected": false,
+      "isDisabled": false
+    }
+  ],
+  "selectedTimeZone": "IST (GMT +05:30): Kolkata, Mumbai",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AccountSettingsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed242de93787745cef12ac2"
+  },
+  "accountId": 32,
+  "apiKey": "2eff7ac9-f4f8-4916-83a0-144b6b0dfd61",
+  "communicationSettings": [
+    {
+      "name": "Receive important notifications about my account",
+      "isSelected": true,
+      "isDisabled": true
+    },
+    {
+      "name": "Receive educational and training material about Omoto",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive promotional offers and new product announcements",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive feedback and beta feature evaluation requests",
+      "isSelected": false,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive Omoto blog and best practices articles",
+      "isSelected": false,
+      "isDisabled": false
+    }
+  ],
+  "selectedTimeZone": "IST (GMT +05:30): Kolkata, Mumbai",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AccountSettingsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed242e693787745cef12ac7"
+  },
+  "accountId": 33,
+  "apiKey": "034e4f5e-0c9e-4f43-a4d6-e632a4104665",
+  "communicationSettings": [
+    {
+      "name": "Receive important notifications about my account",
+      "isSelected": true,
+      "isDisabled": true
+    },
+    {
+      "name": "Receive educational and training material about Omoto",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive promotional offers and new product announcements",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive feedback and beta feature evaluation requests",
+      "isSelected": false,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive Omoto blog and best practices articles",
+      "isSelected": false,
+      "isDisabled": false
+    }
+  ],
+  "selectedTimeZone": "IST (GMT +05:30): Kolkata, Mumbai",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AccountSettingsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed246ad93787745cef12ad7"
+  },
+  "accountId": 34,
+  "apiKey": "727f6fec-3973-41fe-883c-089f5a894ed9",
+  "communicationSettings": [
+    {
+      "name": "Receive important notifications about my account",
+      "isSelected": true,
+      "isDisabled": true
+    },
+    {
+      "name": "Receive educational and training material about Omoto",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive promotional offers and new product announcements",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive feedback and beta feature evaluation requests",
+      "isSelected": false,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive Omoto blog and best practices articles",
+      "isSelected": false,
+      "isDisabled": false
+    }
+  ],
+  "selectedTimeZone": "IST (GMT +05:30): Kolkata, Mumbai",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AccountSettingsDocument"
+},
+{
+  "_id": {
+    "$oid": "5efc17b99378772731dc90c2"
+  },
+  "accountId": 35,
+  "apiKey": "16c573f3-ae9a-494b-bd91-a462937d7c77",
+  "communicationSettings": [
+    {
+      "name": "Receive important notifications about my account",
+      "isSelected": true,
+      "isDisabled": true
+    },
+    {
+      "name": "Receive educational and training material about Omoto",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive promotional offers and new product announcements",
+      "isSelected": true,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive feedback and beta feature evaluation requests",
+      "isSelected": false,
+      "isDisabled": false
+    },
+    {
+      "name": "Receive Omoto blog and best practices articles",
+      "isSelected": false,
+      "isDisabled": false
+    }
+  ],
+  "selectedTimeZone": "IST (GMT +05:30): Kolkata, Mumbai",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AccountSettingsDocument"
+}]

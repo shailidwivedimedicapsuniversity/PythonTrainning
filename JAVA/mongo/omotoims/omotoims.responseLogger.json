@@ -1,0 +1,3024 @@
+[{
+  "_id": {
+    "$oid": "5e50e52674ddc41bbf027ba9"
+  },
+  "requestedAt": "2/22/20 8:24 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "8c4e718d-ef42-4e37-80fa-8694218d581b",
+  "method": "sendEmail.post",
+  "identifier": "a6becfbd-e08c-4e7a-aa7b-4411e173e37c",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-02-22T08:24:06.420Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e50e52674ddc41bbf027bae"
+  },
+  "requestedAt": "2/22/20 8:24 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "1cd1aca6-1cb5-4480-ab19-18c61e0f5e74",
+  "method": "sendEmail.post",
+  "identifier": "3d914355-75c9-4e0c-803c-1f0e46033027",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-02-22T08:24:06.558Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e50e52674ddc41bbf027bb3"
+  },
+  "requestedAt": "2/22/20 8:24 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "84393111-5a06-45b0-95b3-c36e7b2eef92",
+  "method": "sendEmail.post",
+  "identifier": "d7b73aad-ceed-41ae-a759-9a629c80cf73",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-02-22T08:24:06.701Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e7444c174ddc41bbf027c7c"
+  },
+  "requestedAt": "3/20/20 4:21 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "2f861d13-ad3b-4de7-84f0-4fe5a6035f2f",
+  "method": "sendEmail.post",
+  "identifier": "6f9f6537-5d7c-4550-8912-a0bec50c9bc3",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:21:21.116Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e7444c174ddc41bbf027c81"
+  },
+  "requestedAt": "3/20/20 4:21 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "0e4b2cdb-bc96-4031-89e5-127296ab26da",
+  "method": "sendEmail.post",
+  "identifier": "aa312ef1-04f1-4c30-90c1-30258a2b942f",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:21:21.772Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e7445be74ddc41bbf027c86"
+  },
+  "requestedAt": "3/20/20 4:25 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "3449f2de-4e17-4a3b-b7d3-fe9652d0dd28",
+  "method": "sendEmail.post",
+  "identifier": "f0c216f4-44e8-4adf-8cbf-2c1b0476407d",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:25:34.848Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e7445bf74ddc41bbf027c8b"
+  },
+  "requestedAt": "3/20/20 4:25 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "0d08092f-6043-4bef-9bb1-f7836b82fb08",
+  "method": "sendEmail.post",
+  "identifier": "29a54c91-3c55-43f6-9e2f-99f89d9efb94",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:25:35.419Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e74460174ddc41bbf027c90"
+  },
+  "requestedAt": "3/20/20 4:26 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "7781568a-2697-4f35-b0dd-57638f0d50f5",
+  "method": "sendEmail.post",
+  "identifier": "ca78643e-d345-4b59-bd45-63d51a441d79",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:26:41.320Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e74460274ddc41bbf027c95"
+  },
+  "requestedAt": "3/20/20 4:26 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "66fa86b8-655a-4386-afa4-3a06df7b6277",
+  "method": "sendEmail.post",
+  "identifier": "06daf87e-8d2f-4dad-90e3-248e40336fa8",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:26:42.172Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e74467074ddc41bbf027c9a"
+  },
+  "requestedAt": "3/20/20 4:28 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "d8a7416b-58e5-40c7-9395-4ab07621ab41",
+  "method": "sendEmail.post",
+  "identifier": "e25f7864-5a42-4cb5-b795-e886591263ba",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:28:32.930Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e74467174ddc41bbf027c9f"
+  },
+  "requestedAt": "3/20/20 4:28 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "1c41c8c0-16b6-4371-b413-edce9a3b8e5e",
+  "method": "sendEmail.post",
+  "identifier": "c0779e50-97d3-4486-9321-b6040dcbf008",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:28:33.498Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e748f6d74ddc41bbf027ca4"
+  },
+  "requestedAt": "3/20/20 9:39 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "8897cfc4-170c-44c7-9cff-84088bd89eae",
+  "method": "sendEmail.post",
+  "identifier": "9ac56076-f7a9-4e06-b6a8-a40f8145b39e",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T09:39:57.685Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e748f6e74ddc41bbf027ca9"
+  },
+  "requestedAt": "3/20/20 9:39 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "8b9b8a39-4b26-4982-8382-e2ad6a3d0c12",
+  "method": "sendEmail.post",
+  "identifier": "1d5d85f8-f018-411f-a3f2-0a78ae4b7c26",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T09:39:58.334Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e75dbd074ddc41bbf027cae"
+  },
+  "requestedAt": "3/21/20 9:18 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "6aa60d9d-6ad3-457e-a704-c3d371bfa98d",
+  "method": "sendEmail.post",
+  "identifier": "f03b5271-283a-4fd0-8bc0-4bdb9059dfbd",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-21T09:18:08.147Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e75dc4474ddc41bbf027cb3"
+  },
+  "requestedAt": "3/21/20 9:20 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "9d39c79e-ad82-47bd-9763-9aa618b41410",
+  "method": "sendEmail.post",
+  "identifier": "2521944b-64b1-4ae3-8ef7-ec71e2231fa6",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-21T09:20:04.123Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e75f82974ddc41bbf027cb8"
+  },
+  "requestedAt": "3/21/20 11:19 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "c6b3266f-51cb-4de7-a6b8-f4f304427456",
+  "method": "sendEmail.post",
+  "identifier": "4d6a0ce8-8aa4-4a67-98ad-9ba608475996",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-21T11:19:05.789Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e75f89774ddc41bbf027cbd"
+  },
+  "requestedAt": "3/21/20 11:20 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "78993537-e11e-450a-9d6b-99da9f8762b8",
+  "method": "sendEmail.post",
+  "identifier": "5295b992-db3a-4b0d-a010-ddaff773b431",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-21T11:20:55.206Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e760b4274ddc41bbf027cc2"
+  },
+  "requestedAt": "3/21/20 12:40 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "7bf363c6-46b8-4e57-9b28-78475d8536cd",
+  "method": "sendEmail.post",
+  "identifier": "6180895a-ab9e-42f9-8414-ca02a151014f",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-21T12:40:34.688Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e760d0474ddc41bbf027cc7"
+  },
+  "requestedAt": "3/21/20 12:48 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "d6d6d752-8c5e-4835-ac65-dc8417a5ad47",
+  "method": "sendEmail.post",
+  "identifier": "0ed7f8d3-9708-4440-b6e9-85b326ccb344",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-21T12:48:04.703Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e79f34974ddc41bbf027ce8"
+  },
+  "requestedAt": "3/24/20 11:47 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "7ea9e327-2ea6-489a-a12d-756007742d56",
+  "method": "sendEmail.post",
+  "identifier": "4e746a1e-5072-464a-89bf-b70896bc2aca",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-24T11:47:21.228Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e79f3e274ddc41bbf027ced"
+  },
+  "requestedAt": "3/24/20 11:49 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "b3144263-ddcd-44b7-ba54-299e3f1d2be6",
+  "method": "sendEmail.post",
+  "identifier": "b96f5e7b-a71a-4101-87fa-dc93c2d3a44a",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-24T11:49:54.775Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e7de7dd74ddc41bbf027cf4"
+  },
+  "requestedAt": "3/27/20 11:47 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "a2fe797d-37a5-4c6d-98e3-2f85090339dc",
+  "method": "sendEmail.post",
+  "identifier": "c519b47e-6372-4217-9e92-d78fc429a1d7",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:47:41.713Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e7de85674ddc41bbf027cf9"
+  },
+  "requestedAt": "3/27/20 11:49 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "2914d6a1-45d3-4c04-8cd4-1c5733b0fb77",
+  "method": "sendEmail.post",
+  "identifier": "980ceea5-28ee-4f1d-8092-0929b101d36f",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:49:42.256Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e7de85674ddc41bbf027cfe"
+  },
+  "requestedAt": "3/27/20 11:49 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "e9947d15-46f3-4248-98b0-1e9c633640d6",
+  "method": "sendEmail.post",
+  "identifier": "01a00566-e7cb-4690-8941-04f7ba3af653",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:49:42.921Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e7de8c374ddc41bbf027d03"
+  },
+  "requestedAt": "3/27/20 11:51 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "0ff36e58-a7b6-48f2-8741-cef5c61db3bc",
+  "method": "sendEmail.post",
+  "identifier": "b7baf77d-0b76-4df1-a982-feae1433bcca",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:51:31.375Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e7de8c474ddc41bbf027d08"
+  },
+  "requestedAt": "3/27/20 11:51 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "bd247bb5-a0bc-4521-a198-c1174b86c19c",
+  "method": "sendEmail.post",
+  "identifier": "b34b1861-5b0f-49d4-ab5f-bc093df5881b",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:51:32.194Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e7de93c74ddc41bbf027d0d"
+  },
+  "requestedAt": "3/27/20 11:53 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "6031e071-df11-450d-8faf-3852ee752f70",
+  "method": "sendEmail.post",
+  "identifier": "1429b90c-46f8-483f-bd2e-82755c70541c",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:53:32.064Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e7de93c74ddc41bbf027d12"
+  },
+  "requestedAt": "3/27/20 11:53 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "0a87b84d-9e3e-429e-840f-5652ecd78ca0",
+  "method": "sendEmail.post",
+  "identifier": "662b3d1a-5fcf-455f-b819-993e190e27dc",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:53:32.815Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e83029d74ddc41bbf027d1d"
+  },
+  "requestedAt": "3/31/20 8:43 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "7c666ebe-cf40-45e5-a459-dc42dbe9c4b0",
+  "method": "sendEmail.post",
+  "identifier": "31c854cd-b3c5-4398-9b34-43303bf8ca42",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-31T08:43:09.473Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e8334c674ddc41bbf027d22"
+  },
+  "requestedAt": "3/31/20 12:17 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "1ea30363-6eb3-4885-bc02-062f4f35498d",
+  "method": "sendEmail.post",
+  "identifier": "36756391-0625-4657-b2a6-0ca42d4d5a05",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-03-31T12:17:10.170Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e8460ff74ddc41bbf027d2a"
+  },
+  "requestedAt": "4/1/20 9:38 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "d8fda434-4dbd-4b08-9403-9abd892c401e",
+  "method": "sendEmail.post",
+  "identifier": "eeb02900-805d-44d9-bb84-3e4614fff8fe",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-01T09:38:07.893Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e8461c274ddc41bbf027d2f"
+  },
+  "requestedAt": "4/1/20 9:41 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "eff38b34-ade9-4fd0-aff3-2fbef5bd074a",
+  "method": "sendEmail.post",
+  "identifier": "7aae924b-9686-4db6-be25-d4b259823196",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-01T09:41:22.985Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e846c4474ddc41bbf027d34"
+  },
+  "requestedAt": "4/1/20 10:26 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "4d86339d-6862-4bd1-9eb9-b4d2bd584a33",
+  "method": "sendEmail.post",
+  "identifier": "fd6c7f73-0e81-4987-9576-8f9baf24ca3d",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-01T10:26:12.167Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e85e6b074ddc467b374a2ef"
+  },
+  "requestedAt": "02/04/20 13:20",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "cc884cd7-3544-4838-8d11-1259502578be",
+  "method": "sendEmail.post",
+  "identifier": "1208aa0c-f016-4f29-8eb2-71f150ffb2b6",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-02T13:20:48.351Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e8836f274ddc467b374a2f3"
+  },
+  "requestedAt": "4/4/20 7:27 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "c31b2a13-d522-49c3-b9a7-72b8ac4b6e21",
+  "method": "sendEmail.post",
+  "identifier": "93bd5239-0d36-4c80-aea9-243c48266222",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T07:27:46.217Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e886ca674ddc41c60b2895d"
+  },
+  "requestedAt": "4/4/20 11:16 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "ab43b38a-df60-48b7-8fd2-a5b3ffc404aa",
+  "method": "sendEmail.post",
+  "identifier": "1affd98c-4228-4b8d-a8be-e7d96271c24c",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T11:16:54.578Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e886e4a74ddc41d76c5bf9b"
+  },
+  "requestedAt": "4/4/20 11:23 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "8bfd2f68-48ea-4748-9926-905327ecbae4",
+  "method": "sendEmail.post",
+  "identifier": "7947dbfd-8952-4b07-aaeb-fa7b8f963aa6",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T11:23:54.735Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e88728a74ddc41d76c5bfa5"
+  },
+  "requestedAt": "4/4/20 11:42 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "0bf0ec57-40b8-40ed-b1ec-e53ad103718c",
+  "method": "sendEmail.post",
+  "identifier": "09cfeeaa-59b1-47ba-9482-b3c942b53aed",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T11:42:02.312Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e8874a974ddc42112fd1e36"
+  },
+  "requestedAt": "4/4/20 11:51 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "2c079acd-e5ac-4ad6-be15-5f37041cd690",
+  "method": "sendEmail.post",
+  "identifier": "dd76161b-b00c-4c3e-a20b-f3185884e2e1",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T11:51:05.353Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e88754874ddc42112fd1e3a"
+  },
+  "requestedAt": "04/04/20 11:53",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "b3d929be-49af-4b2e-b7cb-835b2b48d9c2",
+  "method": "sendEmail.post",
+  "identifier": "382e221d-8953-4b45-8287-cb248d2f3890",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T11:53:44.991Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e887c3374ddc42112fd1e3e"
+  },
+  "requestedAt": "4/4/20 12:23 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "7f561c53-cda2-4926-9768-e7057da8f596",
+  "method": "sendEmail.post",
+  "identifier": "dd230a80-7215-436a-9b9f-173b53aaf921",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T12:23:15.910Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e887cc074ddc42112fd1e42"
+  },
+  "requestedAt": "4/4/20 12:25 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "fa78cb8d-a5b0-4781-ab9c-86f992b06ee0",
+  "method": "sendEmail.post",
+  "identifier": "109334f8-9916-423f-bd80-6c73be2b2011",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T12:25:36.838Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e8881ec74ddc42112fd1e46"
+  },
+  "requestedAt": "4/4/20 12:47 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "bb3dbb39-a396-422f-a15b-6a282a6c63ab",
+  "method": "sendEmail.post",
+  "identifier": "da851624-4153-4211-88dd-f3d211e28ba1",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T12:47:40.691Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e8884df74ddc42112fd1e4a"
+  },
+  "requestedAt": "4/4/20 1:00 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "04b8e47e-eecd-429c-83a0-96d9948714db",
+  "method": "sendEmail.post",
+  "identifier": "81fd47bb-32eb-4970-b733-336415008395",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T13:00:15.220Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e8886c674ddc42112fd1e4e"
+  },
+  "requestedAt": "4/4/20 1:08 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "76183f01-f17b-4603-a1b4-d493f2f0706e",
+  "method": "sendEmail.post",
+  "identifier": "c672adb3-688d-49a3-8c39-9259b8a369e4",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T13:08:22.287Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e888c1d74ddc42112fd1e52"
+  },
+  "requestedAt": "4/4/20 1:31 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "b7636ff5-2922-4064-841c-f035c64cd8fa",
+  "method": "sendEmail.post",
+  "identifier": "d50f4de5-b539-49a0-99c6-cc993b32063b",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T13:31:09.360Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e8894f974ddc42112fd1e56"
+  },
+  "requestedAt": "4/4/20 2:08 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "55e3406f-ce01-4d09-a6e1-b73c8f580ed7",
+  "method": "sendEmail.post",
+  "identifier": "57cde786-9920-4e54-8978-31fedef9a865",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T14:08:57.160Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e88980374ddc42112fd1e5a"
+  },
+  "requestedAt": "4/4/20 2:21 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "ca76eb9a-859a-4ebf-a6a5-4659ff499bbc",
+  "method": "sendEmail.post",
+  "identifier": "e93e10b1-ae5f-4dc2-a2cb-b4fbc96c49d8",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T14:21:55.249Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e889e0c74ddc42112fd1e5e"
+  },
+  "requestedAt": "4/4/20 2:47 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "f0fafbde-242a-4361-ba51-a10678f85fcb",
+  "method": "sendEmail.post",
+  "identifier": "8adc8663-293e-4b18-8d05-49c1dd485f0e",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T14:47:40.063Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e8b26d993787724431c6e88"
+  },
+  "requestedAt": "4/6/20 12:55 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "d13567c9-07fe-481c-a8f2-22bcb9f30b7c",
+  "method": "sendEmail.post",
+  "identifier": "5635fda1-46b4-409d-adad-ab4c2d808ed4",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-06T12:55:53.176Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e8eca6393787724431c6e8f"
+  },
+  "requestedAt": "4/9/20 7:10 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "ec494849-78e5-4107-8919-19d4d00568e2",
+  "method": "sendEmail.post",
+  "identifier": "02d8795a-912d-47a5-99af-1743cb80e564",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-09T07:10:27.357Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e8f0d1f93787724431c6e95"
+  },
+  "requestedAt": "4/9/20 11:55 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "bfc8b9d7-9b1d-4880-b02f-9c4eb666acd1",
+  "method": "sendEmail.post",
+  "identifier": "5c17f40a-568a-420d-a443-ad012f6ef938",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-09T11:55:11.373Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e8f0db093787724431c6e9b"
+  },
+  "requestedAt": "4/9/20 11:57 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "829fe473-6d17-41c8-af69-a967339e22dc",
+  "method": "sendEmail.post",
+  "identifier": "91318402-29b1-489c-915a-89e1151d2059",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-09T11:57:36.970Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e99e6c093787724431c6ea1"
+  },
+  "requestedAt": "4/17/20 5:26 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "779958a5-1c77-430b-878d-fd9101184948",
+  "method": "sendEmail.post",
+  "identifier": "e4eff27d-c1d0-4ef3-8710-7d208c168905",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-17T17:26:24.833Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e99e87e93787724431c6ea7"
+  },
+  "requestedAt": "4/17/20 5:33 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "f5561390-9281-4028-82f9-39b5b201d7f6",
+  "method": "sendEmail.post",
+  "identifier": "37eafaab-8eca-4415-8c8c-85afba794286",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-17T17:33:50.321Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e9acc4f93787724431c6eab"
+  },
+  "requestedAt": "4/18/20 9:45 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "538ba546-9f36-4e6f-b054-9311c1724fda",
+  "method": "sendEmail.post",
+  "identifier": "35dd8789-63ff-4bd9-80e0-a7552574ef85",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T09:45:51.524Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e9ad80f93787724431c6eb1"
+  },
+  "requestedAt": "4/18/20 10:35 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "6c2a4f7e-8f89-4759-856c-67058363986f",
+  "method": "sendEmail.post",
+  "identifier": "696cf510-f328-4079-bdef-4c04b1aafa88",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T10:35:59.993Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e9ad8f593787724431c6eb5"
+  },
+  "requestedAt": "4/18/20 10:39 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "508594dc-e8b7-4df2-b47e-c77cc102f158",
+  "method": "sendEmail.post",
+  "identifier": "b80222be-3b3c-4b65-8ee0-32020ef6d6d9",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T10:39:49.478Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e9adbe293787724431c6eb9"
+  },
+  "requestedAt": "4/18/20 10:52 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "f8b9151f-76bd-422e-92cc-df64edeab3f1",
+  "method": "sendEmail.post",
+  "identifier": "ae92a0f3-ccbf-4cb9-9354-7ceeae5708b9",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T10:52:18.595Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e9adce393787724431c6ebd"
+  },
+  "requestedAt": "4/18/20 10:56 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "f758b457-f856-442c-8e86-3143886ac903",
+  "method": "sendEmail.post",
+  "identifier": "8b1092b2-0aa3-435e-9ee2-84087090bbf1",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T10:56:35.920Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e9aea3c93787724431c6ec3"
+  },
+  "requestedAt": "4/18/20 11:53 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "35011651-6536-4326-b8ef-f6c3a44c2b05",
+  "method": "sendEmail.post",
+  "identifier": "b640086d-3fdf-4cf1-9e4e-7870d2a5a5a2",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T11:53:32.599Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e9af34393787724431c6ec9"
+  },
+  "requestedAt": "4/18/20 12:32 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "2d05d85c-6f73-4111-810e-8115d6a6cafb",
+  "method": "sendEmail.post",
+  "identifier": "82aa1100-2d46-4820-b107-2993506fffca",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T12:32:03.807Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e9af3e893787724431c6ecd"
+  },
+  "requestedAt": "4/18/20 12:34 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "98feb64d-d998-450b-8e15-c8058e088490",
+  "method": "sendEmail.post",
+  "identifier": "20aa6581-14da-4374-b565-9117b53a9358",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T12:34:48.019Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e9af68b93787724431c6ed1"
+  },
+  "requestedAt": "4/18/20 12:46 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "5a6718fc-03d7-4f71-b2f2-02c74cca3410",
+  "method": "sendEmail.post",
+  "identifier": "c3191838-b047-482c-b83f-f8c16e61d1ff",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T12:46:03.232Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e9af88893787724431c6ed5"
+  },
+  "requestedAt": "4/18/20 12:54 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "f52378a3-a07a-4776-8563-a86b91e30541",
+  "method": "sendEmail.post",
+  "identifier": "7d2c2406-ad98-4ce9-9691-507e8a58a78d",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T12:54:32.922Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e9af8b093787724431c6ed9"
+  },
+  "requestedAt": "4/18/20 12:55 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "7171605f-0707-4b60-bda4-ad28b694e016",
+  "method": "sendEmail.post",
+  "identifier": "a1f4008a-7207-4db8-aa91-ae3cdddfff05",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T12:55:12.921Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5e9afc4d93787724431c6edd"
+  },
+  "requestedAt": "4/18/20 1:10 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "c7eee31e-1fae-43ed-8072-b112505eb873",
+  "method": "sendEmail.post",
+  "identifier": "6aa48ebd-732e-4c2c-9117-a467fd44140f",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T13:10:37.937Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eac06309378774f0cf3ccee"
+  },
+  "requestedAt": "5/1/20 11:21 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "e28eaad9-f563-464a-9232-387d5d38f8fd",
+  "method": "sendEmail.post",
+  "identifier": "356f22cb-c3bc-466a-b15f-96bae9ba6d85",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-01T11:21:19.999Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eac06309378774f0cf3ccf2"
+  },
+  "requestedAt": "5/1/20 11:21 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "4d46cb6d-8c19-46e3-ae2e-31d4a3896132",
+  "method": "sendEmail.post",
+  "identifier": "29bbeaf3-fc0b-44c6-9fe1-566e01174192",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-01T11:21:20.757Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ead3b1f9378774f0cf3ccf8"
+  },
+  "requestedAt": "5/2/20 9:19 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "76b82827-0330-477b-93a0-404f0efaecf1",
+  "method": "sendEmail.post",
+  "identifier": "fa03d1ec-b74d-4bd8-aa3d-02cd9679169e",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-02T09:19:27.822Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ead4ac59378774f0cf3ccfc"
+  },
+  "requestedAt": "5/2/20 10:26 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "50379fcd-2142-4cdd-ae0e-caa3778e1214",
+  "method": "sendEmail.post",
+  "identifier": "0e03dcc6-f92d-4391-81b1-b46e93c428d0",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-02T10:26:13.057Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ead4ac69378774f0cf3cd00"
+  },
+  "requestedAt": "5/2/20 10:26 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "64ecb4e2-1bff-4155-97aa-354a76c6ffeb",
+  "method": "sendEmail.post",
+  "identifier": "db679f9e-9205-4244-aa59-7d60a890e32b",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-02T10:26:14.173Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ead50ff9378774f0cf3cd06"
+  },
+  "requestedAt": "5/2/20 10:52 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "76815a14-4564-4b88-b802-b280cab26bb4",
+  "method": "sendEmail.post",
+  "identifier": "566539f9-dbf7-4727-8f0a-ce52b4b2a92c",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-02T10:52:47.782Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ead55e79378774f0cf3cd0a"
+  },
+  "requestedAt": "5/2/20 11:13 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "02e40219-5966-4fa5-a136-207a1b402e5c",
+  "method": "sendEmail.post",
+  "identifier": "51fcf8cd-09d0-4902-96ad-216eb95623b6",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-02T11:13:43.232Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ead55e89378774f0cf3cd0e"
+  },
+  "requestedAt": "5/2/20 11:13 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "5b2c746c-d67d-4f06-b7d0-5470a7c8fda5",
+  "method": "sendEmail.post",
+  "identifier": "0e33148a-59aa-4736-8bed-6f47ea640c4f",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-02T11:13:44.153Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb00be49378774f0cf3cd12"
+  },
+  "requestedAt": "5/4/20 12:34 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "ae67431d-35a4-45bb-a1a8-13a1e3d890d9",
+  "method": "sendEmail.post",
+  "identifier": "2dd8d8ee-2f96-4148-9811-cf700361cd47",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-04T12:34:44.932Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb00be59378774f0cf3cd16"
+  },
+  "requestedAt": "5/4/20 12:34 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "451d0d9b-1d42-4edf-9626-081ecd2c0458",
+  "method": "sendEmail.post",
+  "identifier": "7172e903-f186-4376-acfd-7260ed594e0a",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-04T12:34:45.922Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb00eab9378774f0cf3cd1a"
+  },
+  "requestedAt": "5/4/20 12:46 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "ee2f9759-4fdf-465d-be1f-98544cb0efff",
+  "method": "sendEmail.post",
+  "identifier": "e813f057-2c6e-4cef-abbd-14cd6b27aff2",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-04T12:46:35.616Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb00ead9378774f0cf3cd1e"
+  },
+  "requestedAt": "5/4/20 12:46 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "7cf729e6-5788-4d1a-abe9-fc843cf3edf2",
+  "method": "sendEmail.post",
+  "identifier": "cce9e310-9b34-4093-9035-cf237b041ab5",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-04T12:46:37.787Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb3b01a9378774f0cf3cd22"
+  },
+  "requestedAt": "5/7/20 6:52 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "48bfa230-fb53-48e4-81f9-a47b22e1f913",
+  "method": "sendEmail.post",
+  "identifier": "e2e7fd7f-2e38-423e-b366-dccee162c440",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-07T06:52:10.250Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb3b01a9378774f0cf3cd26"
+  },
+  "requestedAt": "5/7/20 6:52 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "8c26daf2-4b2a-473b-824e-5e697a539e43",
+  "method": "sendEmail.post",
+  "identifier": "830a65dd-646f-4838-8d2b-9f0c75dc5c54",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-07T06:52:10.712Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb3b40d9378774f0cf3cd2a"
+  },
+  "requestedAt": "5/7/20 7:09 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "818c6b01-abfa-4811-bf93-4108330385c3",
+  "method": "sendEmail.post",
+  "identifier": "b16d4e95-0929-4af2-bedc-0e211fb056e0",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-07T07:09:01.681Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb3b40e9378774f0cf3cd2e"
+  },
+  "requestedAt": "5/7/20 7:09 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "4e7dc9ba-c73d-4ba2-b65b-3bf630c42777",
+  "method": "sendEmail.post",
+  "identifier": "6c5c6880-03f4-4649-aab2-66d21903dab6",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-07T07:09:02.539Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb3b4899378774f0cf3cd32"
+  },
+  "requestedAt": "5/7/20 7:11 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "4c3cff89-78d5-4d2c-a79b-2afc9ffc03ff",
+  "method": "sendEmail.post",
+  "identifier": "9ca4a3d4-91ae-4917-8edb-3ae36e4b4098",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-07T07:11:05.136Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb3b48a9378774f0cf3cd36"
+  },
+  "requestedAt": "5/7/20 7:11 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "99ede493-fd93-49ab-b4df-2db8867f1f8d",
+  "method": "sendEmail.post",
+  "identifier": "a60e6fe3-0467-4e49-9c57-f2c0794ab5c3",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-07T07:11:06.409Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb551a89378774f0cf3cd3d"
+  },
+  "requestedAt": "5/8/20 12:33 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "329c44d3-2f79-4915-9c37-eaee4a1d4ce9",
+  "method": "sendEmail.post",
+  "identifier": "8d8ce2c5-b07c-4467-8ff6-850e720db271",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T12:33:44.555Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb551a99378774f0cf3cd41"
+  },
+  "requestedAt": "5/8/20 12:33 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "d7f31bb2-0833-4751-8c83-7fbdf6e44df2",
+  "method": "sendEmail.post",
+  "identifier": "9f864d51-5829-422b-980a-59cd46ff49b3",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T12:33:45.429Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb551aa9378774f0cf3cd45"
+  },
+  "requestedAt": "5/8/20 12:33 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "5923674a-b708-4bb9-a19f-b85b11d6db10",
+  "method": "sendEmail.post",
+  "identifier": "80d68fc5-8d07-4a8c-8cb7-5de7f0786b63",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T12:33:46.097Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb551aa9378774f0cf3cd49"
+  },
+  "requestedAt": "5/8/20 12:33 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "584914a2-4fa3-4880-817e-ae9187f5bddf",
+  "method": "sendEmail.post",
+  "identifier": "661e8016-e71a-4660-a022-26370a391ea8",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T12:33:46.682Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55a769378774f0cf3cd4d"
+  },
+  "requestedAt": "5/8/20 1:11 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "fcc78a0d-4ec0-4b91-8b52-15f8eb906fe0",
+  "method": "sendEmail.post",
+  "identifier": "35f93663-1c0b-4058-bcde-bc306215f1ec",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:11:18.112Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55a779378774f0cf3cd51"
+  },
+  "requestedAt": "5/8/20 1:11 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "b88ae344-847c-4a6a-bcb6-7d67565e983d",
+  "method": "sendEmail.post",
+  "identifier": "0a00dd97-ff8a-487f-934d-0de9883273fb",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:11:19.032Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55c3e9378774f0cf3cd55"
+  },
+  "requestedAt": "5/8/20 1:18 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "774a59ac-ebce-4695-9371-282b2d16b60e",
+  "method": "sendEmail.post",
+  "identifier": "25c015bb-b6d0-406d-a35e-a56b33b20cd7",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:18:54.095Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55c3e9378774f0cf3cd59"
+  },
+  "requestedAt": "5/8/20 1:18 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "14360068-d86c-4559-b77b-8996f21eff8c",
+  "method": "sendEmail.post",
+  "identifier": "ea05c1ba-31da-4248-84f6-5021604710bc",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:18:54.860Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55c3f9378774f0cf3cd5d"
+  },
+  "requestedAt": "5/8/20 1:18 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "9968c559-39fb-4ed2-becd-e96f81e782e8",
+  "method": "sendEmail.post",
+  "identifier": "9ac0d51a-cae7-4fa9-81f7-f26b8fd53d04",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:18:55.502Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55c409378774f0cf3cd61"
+  },
+  "requestedAt": "5/8/20 1:18 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "9c07a537-02bd-4bc5-804e-38ec64f1aa01",
+  "method": "sendEmail.post",
+  "identifier": "0e167607-285f-4e13-8557-87635be3e12d",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:18:56.136Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55c609378774f0cf3cd65"
+  },
+  "requestedAt": "5/8/20 1:19 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "9ad2a05f-ab6f-4846-8ebb-90f178b6ab23",
+  "method": "sendEmail.post",
+  "identifier": "c76373ae-ef90-4904-88ad-04883da69cb3",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:19:28.294Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55c619378774f0cf3cd69"
+  },
+  "requestedAt": "5/8/20 1:19 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "7e3731c5-b269-4b79-8879-9bbd697e4c6d",
+  "method": "sendEmail.post",
+  "identifier": "31982a5c-4d22-4901-aa73-b69af5bb5179",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:19:29.188Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55c619378774f0cf3cd6d"
+  },
+  "requestedAt": "5/8/20 1:19 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "61f647cc-abea-4d7f-bd22-44f26c6b07a0",
+  "method": "sendEmail.post",
+  "identifier": "71947231-ebb3-44eb-9676-501b6d8477c4",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:19:29.835Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55c629378774f0cf3cd71"
+  },
+  "requestedAt": "5/8/20 1:19 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "3ef9feca-c85a-4669-a9eb-93a861039efd",
+  "method": "sendEmail.post",
+  "identifier": "2e2d3708-4682-4b53-b941-500be173c91b",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:19:30.768Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55c639378774f0cf3cd75"
+  },
+  "requestedAt": "5/8/20 1:19 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "5b81a663-6ee6-4c1f-983c-436cad27b1ea",
+  "method": "sendEmail.post",
+  "identifier": "17bd7c16-00cd-4fba-948b-81ffbe90e616",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:19:31.734Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55c649378774f0cf3cd79"
+  },
+  "requestedAt": "5/8/20 1:19 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "f1de0777-38a5-49e6-9e9d-a1b9e8357259",
+  "method": "sendEmail.post",
+  "identifier": "0f480dd4-d22b-4e97-a2fd-53119de153ae",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:19:32.662Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55d109378774f0cf3cd7d"
+  },
+  "requestedAt": "5/8/20 1:22 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "04e50cde-413c-4c72-b2d7-ad3eef88bfe9",
+  "method": "sendEmail.post",
+  "identifier": "588f158e-bf68-44d2-a865-228f818a940e",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:22:24.209Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55d119378774f0cf3cd81"
+  },
+  "requestedAt": "5/8/20 1:22 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "fbbac039-a516-481a-ae46-48570d3fa4b7",
+  "method": "sendEmail.post",
+  "identifier": "d853e0a1-da26-43cd-ae9d-a6e083abcf45",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:22:25.056Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55d119378774f0cf3cd85"
+  },
+  "requestedAt": "5/8/20 1:22 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "bd933d9c-2dbc-4aca-ace9-dd52c81457b0",
+  "method": "sendEmail.post",
+  "identifier": "80b5b7b7-7ca2-4b37-924d-2b9871537a89",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:22:25.943Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5eb55d129378774f0cf3cd89"
+  },
+  "requestedAt": "5/8/20 1:22 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "f5e910d0-d2b2-4e94-8443-4b289dfde3fc",
+  "method": "sendEmail.post",
+  "identifier": "32d2a65f-a04d-429c-a85e-44aff3eb2e63",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:22:26.586Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ebce65e9378774f0cf3cd8d"
+  },
+  "requestedAt": "5/14/20 6:34 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "a771a401-9265-4391-8159-af1440b3d548",
+  "method": "sendEmail.post",
+  "identifier": "c4f92d41-b076-4aa3-9f9c-36318f8f5e23",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-14T06:34:06.312Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ebce65f9378774f0cf3cd91"
+  },
+  "requestedAt": "5/14/20 6:34 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "b07e02ba-3358-4326-bb94-4163644a2941",
+  "method": "sendEmail.post",
+  "identifier": "99d010f8-9d9d-47c3-8f4f-2a99d05dc1e7",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-14T06:34:07.354Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ecb622093787726bfdc7982"
+  },
+  "requestedAt": "5/25/20 11:43 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "cc221576-7783-466c-96a3-bdc8c49f79c9",
+  "method": "sendEmail.post",
+  "identifier": "cad33e80-4098-4d64-923a-08dd27a6e7a7",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-25T06:13:52.854Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ecb62e093787726bfdc7986"
+  },
+  "requestedAt": "5/25/20 11:47 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "07ef5572-317a-4db3-be98-f09b3c9d9234",
+  "method": "sendEmail.post",
+  "identifier": "280703c4-05e1-4783-88f5-f98523401753",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-25T06:17:04.730Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ecb63b893787726bfdc798a"
+  },
+  "requestedAt": "5/25/20 11:50 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "a1d3cf4f-d7f0-46e4-a01e-ed264d6a419a",
+  "method": "sendEmail.post",
+  "identifier": "f821c94c-a3b9-4c58-b246-619e008cccd5",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-25T06:20:40.051Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ecf8dd19378775db6b38a10"
+  },
+  "requestedAt": "5/28/20 3:39 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "c8eb8b14-9363-43d9-9be2-0b155bed94de",
+  "method": "sendEmail.post",
+  "identifier": "af3dc46e-7615-418e-a3ea-206506bc4ada",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T10:09:21.075Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ecf8e7e9378775db6b38a14"
+  },
+  "requestedAt": "5/28/20 3:42 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "cb4ad3ce-0e16-4fa9-b751-923804abfa24",
+  "method": "sendEmail.post",
+  "identifier": "1fbcc213-6ee5-4688-99b7-22fce631de21",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T10:12:14.456Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ecf9ec49378775db6b38a18"
+  },
+  "requestedAt": "5/28/20 4:51 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "67fc0513-2f46-468d-a801-e29dfddf910a",
+  "method": "sendEmail.post",
+  "identifier": "0f7b4512-9672-436f-a5ef-ef8c7dd3377e",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T11:21:40.644Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ecf9eec9378775db6b38a1c"
+  },
+  "requestedAt": "5/28/20 4:52 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "1bf03855-0c42-4f39-8141-f63eff781408",
+  "method": "sendEmail.post",
+  "identifier": "380571b5-56b9-45ed-a450-6ed41566fe0c",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T11:22:20.034Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ecf9f3d9378775db6b38a20"
+  },
+  "requestedAt": "5/28/20 4:53 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "216dc299-ae57-4651-95f5-de7bc5a55517",
+  "method": "sendEmail.post",
+  "identifier": "7f48a928-b65f-4eca-a584-851bfc08eabf",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T11:23:41.338Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ecf9f5b9378775db6b38a24"
+  },
+  "requestedAt": "5/28/20 4:54 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "21fb1ff0-3901-4d45-bebd-cf47cc9c941a",
+  "method": "sendEmail.post",
+  "identifier": "cef98ceb-be76-4ae7-978f-584160f3dce6",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T11:24:11.124Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ecfa71a9378775db6b38a28"
+  },
+  "requestedAt": "5/28/20 5:27 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "33d71e44-87f6-49d5-9d2d-ca61992f12ec",
+  "method": "sendEmail.post",
+  "identifier": "89eaa1b9-cdc3-4d40-92c8-29c3e39110b2",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T11:57:14.464Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ecfb1019378775db6b38a32"
+  },
+  "requestedAt": "5/28/20 6:09 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "7c92dd67-2ea3-488c-9ab2-3947eaa37e64",
+  "method": "sendEmail.post",
+  "identifier": "283bbe28-485c-4f57-bc45-69d41b3b75ba",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T12:39:29.521Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ecfbca39378775db6b38a36"
+  },
+  "requestedAt": "5/28/20 6:59 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "afe153c2-2d73-415b-aee4-8a4f82546e21",
+  "method": "sendEmail.post",
+  "identifier": "6020bf27-654f-44aa-8bc2-3b6c304ed6ab",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T13:29:07.836Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed0af449378775db6b38a3a"
+  },
+  "requestedAt": "5/29/20 12:14 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "f5728da3-4c81-457f-8313-f92af2756b45",
+  "method": "sendEmail.post",
+  "identifier": "d9d95923-dc52-4e18-badd-cf17c3923eed",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T06:44:20.655Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed0b4889378775db6b38a3e"
+  },
+  "requestedAt": "5/29/20 12:36 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "116a6c62-c5fa-480f-a0a0-6f25892e4b25",
+  "method": "sendEmail.post",
+  "identifier": "3f210899-0ffa-4a50-91a5-a873925fb216",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T07:06:48.277Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed0b4889378775db6b38a42"
+  },
+  "requestedAt": "5/29/20 12:36 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "381f60e9-2492-4d05-ad8e-dea800fb4054",
+  "method": "sendEmail.post",
+  "identifier": "128f6ad4-c83c-4dbd-9baf-713a6de1db3f",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T07:06:48.806Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed0cb579378775db6b38a4c"
+  },
+  "requestedAt": "5/29/20 2:14 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "13fc96aa-259a-488c-bf55-b622d771fcd4",
+  "method": "sendEmail.post",
+  "identifier": "f9f942df-37f7-48ce-b67c-c56a7899f47e",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T08:44:07.328Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed0cdba9378775db6b38a50"
+  },
+  "requestedAt": "5/29/20 2:24 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "959ad499-9dba-49f5-a37d-ebcb71f3912f",
+  "method": "sendEmail.post",
+  "identifier": "11e91d2f-41a6-4f70-b20c-cb8231feeafb",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T08:54:18.441Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed0fd2f9378775db6b38a60"
+  },
+  "requestedAt": "5/29/20 5:46 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "500d473d-9ba8-4586-b69e-1737ed65cade",
+  "method": "sendEmail.post",
+  "identifier": "651a3cf8-c5ca-4349-92ac-3c2c807bf3be",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T12:16:47.472Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed225109378775db6b38a64"
+  },
+  "requestedAt": "5/30/20 2:49 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "bb856c8c-86e8-49fa-8f01-158eeb7b5644",
+  "method": "sendEmail.post",
+  "identifier": "7ac7bd54-c309-4fff-8b1f-4255568d4750",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T09:19:12.608Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed2356a9378775db6b38a68"
+  },
+  "requestedAt": "5/30/20 3:58 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "8a139b6e-84f9-4c3c-b620-a6cc410817e0",
+  "method": "sendEmail.post",
+  "identifier": "130ba4c5-522f-474a-92a9-c5199a98d38e",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T10:28:58.619Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed2375a9378775db6b38a6c"
+  },
+  "requestedAt": "5/30/20 4:07 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "f31b7a9a-9d48-4adf-ae85-5b8d0b6e0a64",
+  "method": "sendEmail.post",
+  "identifier": "eb837c39-e7c3-4083-8e5c-d10404bb92dd",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T10:37:14.546Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed242049378775db6b38a70"
+  },
+  "requestedAt": "5/30/20 4:52 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "76dac13d-2b34-4860-be4b-20bad812733d",
+  "method": "sendEmail.post",
+  "identifier": "9af4a4bd-7a7c-4be4-9442-7897af1c856a",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:22:44.892Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed242369378775db6b38a74"
+  },
+  "requestedAt": "5/30/20 4:53 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "a7fd6bde-4742-4b61-83e4-572d89962f0e",
+  "method": "sendEmail.post",
+  "identifier": "8d8d3ea2-01a3-4f76-8a17-5a0228537ef9",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:23:34.280Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed242df9378775db6b38a78"
+  },
+  "requestedAt": "5/30/20 4:56 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "c911c80b-03ff-44a9-aa6f-ad64a3009c34",
+  "method": "sendEmail.post",
+  "identifier": "589ced02-c046-4f22-861b-c965c7f6c47d",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:26:23.360Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed242e79378775db6b38a7c"
+  },
+  "requestedAt": "5/30/20 4:56 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "93f956a0-a0ae-4399-b6d8-88cf466538f5",
+  "method": "sendEmail.post",
+  "identifier": "b8615cb8-5835-4091-a065-31b5bfb9ef58",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:26:31.234Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed245e99378775db6b38a80"
+  },
+  "requestedAt": "5/30/20 5:09 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "f32144f1-1cd5-4dcd-9e9b-b2f84a678013",
+  "method": "sendEmail.post",
+  "identifier": "b180e5bc-dd5e-4b33-8673-e3e619084951",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:39:21.882Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed246ae9378775db6b38a84"
+  },
+  "requestedAt": "5/30/20 5:12 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "edee5ecd-c546-44b0-9092-c831ee38bcde",
+  "method": "sendEmail.post",
+  "identifier": "8599204a-8ad2-4c57-9d06-07a647be6586",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:42:38.572Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed24c8c9378775db6b38a88"
+  },
+  "requestedAt": "5/30/20 5:37 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "15d8865e-eb9f-4d92-ba91-e921a96a16b3",
+  "method": "sendEmail.post",
+  "identifier": "eedba035-1df0-44d6-8672-8a890f4c305c",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:07:40.049Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed24c8c9378775db6b38a8c"
+  },
+  "requestedAt": "5/30/20 5:37 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "762e7d48-cc62-48b6-bd67-249ecd247666",
+  "method": "sendEmail.post",
+  "identifier": "d871e17f-81af-4a49-95bb-4f3f8d517e21",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:07:40.690Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed24c8d9378775db6b38a90"
+  },
+  "requestedAt": "5/30/20 5:37 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "e900b79f-6219-45d9-9cc3-12730dddb8a0",
+  "method": "sendEmail.post",
+  "identifier": "6104cc49-5ccc-4e42-b8b8-4ba4f8d7b024",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:07:41.332Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed24fc79378775db6b38a94"
+  },
+  "requestedAt": "5/30/20 5:51 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "7e5cc3a5-0238-4a0c-a363-2d563be49ebc",
+  "method": "sendEmail.post",
+  "identifier": "a346fa20-f313-4d3e-84c2-a62fcc14f470",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:21:27.374Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5ed24fc79378775db6b38a98"
+  },
+  "requestedAt": "5/30/20 5:51 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "67bfad20-9284-47da-b9ac-615b61c37e75",
+  "method": "sendEmail.post",
+  "identifier": "1617728b-8463-4625-8574-4797f358b89c",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:21:27.971Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5efc17bd937877277f82c0c4"
+  },
+  "requestedAt": "7/1/20 10:27 AM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "16bb011a-e620-4f55-982e-99af5363b892",
+  "method": "sendEmail.post",
+  "identifier": "a5e4c69c-5ded-4ccc-9814-7d2b25c14a93",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-07-01T04:57:33.657Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5f0af6ad937877277f82c0c8"
+  },
+  "requestedAt": "7/12/20 5:10 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "2a67d60b-2f2d-47af-956b-a123fb24d388",
+  "method": "sendEmail.post",
+  "identifier": "1ae10298-a056-4265-a36a-8b87fc627dc5",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-07-12T11:40:29.882Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5f0af967937877277f82c0cc"
+  },
+  "requestedAt": "7/12/20 5:22 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "43e5e361-c4ad-406f-b7cd-6dc897e4341b",
+  "method": "sendEmail.post",
+  "identifier": "6d7305d2-f50c-4552-a0ef-0ca4ac5569eb",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-07-12T11:52:07.761Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5f0af968937877277f82c0d0"
+  },
+  "requestedAt": "7/12/20 5:22 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "99026a90-5b91-403f-8a2b-2c87d083c33a",
+  "method": "sendEmail.post",
+  "identifier": "7fb95029-d82d-44ac-9926-4d2ff112e75e",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-07-12T11:52:08.807Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+},
+{
+  "_id": {
+    "$oid": "5f0af969937877277f82c0d4"
+  },
+  "requestedAt": "7/12/20 5:22 PM",
+  "api": "/crm/getAllContacts.GET",
+  "userId": "1",
+  "uuid": "b4b36622-3441-4a08-ad98-614b95bc8f70",
+  "method": "sendEmail.post",
+  "identifier": "b84ca57f-3b2f-4f0c-9a17-024cd715509b",
+  "context": "Sending email",
+  "apiVersion": "V3.0",
+  "accountId": "",
+  "data": {
+    "message": "Success"
+  },
+  "updatedAt": {
+    "$date": "2020-07-12T11:52:09.892Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.ResponseLogger"
+}]

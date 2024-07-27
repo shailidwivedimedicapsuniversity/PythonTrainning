@@ -1,0 +1,451 @@
+
+.bg-image-container {
+  height: 100%;
+  background-color: #f2f3f5;
+}
+
+.sign-in-up-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.cont {
+  overflow: hidden;
+  position: relative;
+  width: 710px;
+  height: 443px;
+  background: #fff;
+  border-radius: 10px;
+}
+
+.form {
+  position: relative;
+  width: 416px;
+  height: 100%;
+  transition: transform 0.8s ease-in-out;
+  padding: 32px 49px 0;
+}
+
+.sub-cont {
+  overflow: hidden;
+  position: absolute;
+  left: 416px;
+  top: 0;
+  width: 710px;
+  height: 100%;
+  padding-left: 260px;
+  background: #fff;
+  transition: transform 0.8s ease-in-out;
+}
+.cont.s--signup .sub-cont {
+  transform: translate3d(-416px, 0, 0);
+}
+
+.overlay {
+  overflow: hidden;
+  z-index: 2;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 294px;
+  height: 100%;
+  padding-top: 300px;
+}
+.overlay:before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 980px;
+  height: 100%;
+  background-image: linear-gradient(to right, #56ccf2, #2f80ed);
+  background-size: cover;
+  transition: transform 0.8s ease-in-out;
+}
+.overlay:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+.cont.s--signup .overlay:before {
+  transform: translate3d(640px, 0, 0);
+}
+
+.overlay-text {
+  z-index: 2;
+  position: absolute;
+  left: 0;
+  top: 115px;
+  width: 100%;
+  padding: 0 24px;
+  text-align: center;
+  color: #fff;
+  transition: transform 0.8s ease-in-out;
+}
+
+.cont.s--signup .overlay-text.overlay-signup {
+  transform: translateX(520px);
+}
+.overlay-text.overlay-signin {
+  transform: translateX(-520px);
+}
+.cont.s--signup .overlay-text.overlay-signin {
+  transform: translateX(0);
+}
+.overlay-btn {
+  overflow: hidden;
+  z-index: 2;
+  position: relative;
+  width: 148px;
+  height: 40px;
+  margin: 0 auto;
+  background: transparent;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  border: 0.5px solid #fff;
+  border-radius: 4px;
+}
+.overlay-btn:after {
+  content: "";
+  z-index: 2;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+.overlay-btn span {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.8s;
+}
+.overlay-btn span.overlay-signin {
+  transform: translateY(-72px);
+}
+.cont.s--signup .overlay-btn span.overlay-signin {
+  transform: translateY(0);
+}
+.cont.s--signup .overlay-btn span.overlay-signup {
+  transform: translateY(72px);
+}
+
+.sign-in {
+  transition-timing-function: ease-out;
+}
+.cont.s--signup .sign-in {
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.8s;
+  transform: translate3d(416px, 0, 0);
+}
+
+.sign-up {
+  transform: translate3d(-900px, 0, 0);
+}
+.cont.s--signup .sign-up {
+  transform: translate3d(32px, 0, 0);
+}
+
+
+.organisation-logo{
+  display: block;
+  margin: 0 auto;
+  width: 189px;
+}
+
+.social-btn-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+
+}
+.social-btn-container i{
+  font-size: 20px;
+  margin-right:22px;
+  cursor: pointer;
+}
+.social-btn-container i:nth-last-child(1){
+  margin-right: 0;
+}
+
+.form-item{
+  margin-bottom: 10px;
+}
+.form-button{
+  width: 100%;
+}
+
+.invalid-input.ng-invalid.ng-touched {
+  color: #f5222d;
+}
+
+
+
+.checkmar-icon-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.checkmark {
+  width: 57px;
+  height: 57px;
+  border-radius: 50%;
+  display: block;
+  stroke-width: 3;
+  stroke: #fff;
+  stroke-miterlimit: 10;
+  box-shadow: inset 0px 0px 0px #7ac142;
+  animation: fill 0.4s ease-in-out 0.4s forwards, scale 0.3s ease-in-out 0.9s both;
+}
+.checkmark__circle {
+  stroke-dasharray: 166;
+  stroke-dashoffset: 166;
+  stroke-width: 2;
+  stroke-miterlimit: 10;
+  stroke: #7ac142;
+  fill: none;
+  animation: stroke 0.6s cubic-bezier(0.65, 0, 0.45, 1) forwards;
+}
+.checkmark__check {
+  transform-origin: 50% 50%;
+  stroke-dasharray: 48;
+  stroke-dashoffset: 48;
+  animation: stroke 0.3s cubic-bezier(0.65, 0, 0.45, 1) 0.8s forwards;
+}
+@keyframes stroke {
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes scale {
+  0%, 100% {
+    transform: none;
+  }
+  50% {
+    transform: scale3d(1.1, 1.1, 1);
+  }
+}
+@keyframes fill {
+  100% {
+    box-shadow: inset 0px 0px 0px 30px #7ac142;
+  }
+}
+
+.password-recovery-card-container {
+  display: flex;
+  justify-content: center;
+  padding: 12px 0 25px;
+}
+
+.password-recovery-card {
+  width: 145px;
+  height: 130px;
+  padding-top: 20px;
+  cursor: pointer;
+  border: 1px solid #e8e8e8;
+}
+
+/*end of sign in up page*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.logo {
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  float: left;
+  content:url(../assets/image/omoto-logo.png);
+}
+
+.right-headers{
+  float: right;
+}
+
+.user-name{
+  margin-left: 5px;
+  width: 35px;
+  height: 22px;
+  opacity: 0.85;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.57;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.user-icon{
+  color: #ffffff;
+  opacity: 0.45;
+}
+
+.notification-icon{
+  color: #ffffff;
+  margin-right: 15px;
+  margin-left: 17px;
+}
+
+.search-icon{
+  color: #ffffff;
+}
+
+.user-icon-bg{
+  width: 200px;
+  height: 200px;
+  opacity: 0.75;
+  background-color: #ddcc6b;
+  border-radius: 50%;
+}
+
+.workspace{
+  background: #ffffff;
+  height: 100%;
+  !*margin-top: 3.1%;*!
+}
+
+.workspace-background{
+  background: #f5f6fa;
+  height: 100%;
+}
+
+
+
+!*@media screen and (min-width: 320px) {
+  .main-menu-bar {
+    background: #ffffff;
+    height: 65px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 0;
+    border-bottom-color: #d7d7d7;
+    border-bottom-width: 2px;
+  }
+
+  .ant-main-menu-horizontal{
+    border-bottom: 0 #ffffff;
+    line-height: 63px;
+  }
+
+  .ant-main-menu-item:hover {
+    color: #4a4a4a;
+    border-bottom-color: #4a4a4a;
+    border-bottom-width: 2px;
+  }
+
+  .ant-main-menu-item-selected{
+    border-bottom-color: #4a4a4a;
+  }
+
+
+  .organization-logo{
+    width: 120px;
+    height: 31px;
+    margin: 8px 0 2px 21px;
+    float: left;
+    content:url(https://cdn.zeplin.io/5b8cc3d60d73ba623b1417b8/assets/E4163CB0-1ACB-4FD3-B06A-C4AAC032EFBC.png);
+  }
+
+  .menus{
+    background: #ffffff;
+    width: 25.4%;
+    height: 43.5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .main-menu-items{
+    font-size: 17px;
+    color: #3e3e3c;
+
+  }
+
+  .right-menus{
+    width: 22.6%;
+    display: block;
+    margin-left: auto;
+  }
+
+  .search-box{
+    width: 260px;
+  }
+}*!
+
+!*@media screen and (max-width: 320px) {
+  .main-menu-bar {
+    background: #b4c6e0;
+    height: 50px;
+  }
+}*!
+*/
+
+.bg {
+  height: 100%;
+  width: 100%;
+  background: #f2f3f5;
+  overflow: auto;
+  padding-top: 65px;
+  padding-bottom: 45px;
+}
+
+.bg-2 {
+  height: 100%;
+  width: 100%;
+  background: #141617;
+}
+
+.container{
+  margin: auto;
+  max-width: 1152px;
+  height: 100%;
+}
+
+.container-2{
+  margin: auto;
+  width: 100%;
+  height: 100%;
+}
+
+.workspace{
+  background: #ffffff;
+  min-height: 95%;
+}
+
+.nav-header {
+  position: fixed;
+  width: 100vw;
+  background: #fff;
+  z-index: 999
+}
+
+
+

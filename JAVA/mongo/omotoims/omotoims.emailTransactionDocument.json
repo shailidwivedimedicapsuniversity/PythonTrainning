@@ -1,0 +1,2198 @@
+[{
+  "_id": {
+    "$oid": "5e50e36774ddc41bbf027b98"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-02-22T08:16:39.929Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-22T08:16:39.929Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e50e47574ddc41bbf027b9b"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-02-22T08:21:09.611Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-22T08:21:09.611Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e50e47574ddc41bbf027b9f"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-02-22T08:21:09.797Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-22T08:21:09.797Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e50e47574ddc41bbf027ba3"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-02-22T08:21:09.897Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-22T08:21:09.897Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e50e52574ddc41bbf027ba7"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-02-22T08:24:05.438Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-22T08:24:05.438Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e50e52674ddc41bbf027bac"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-02-22T08:24:06.479Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-22T08:24:06.479Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e50e52674ddc41bbf027bb1"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-02-22T08:24:06.615Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-22T08:24:06.615Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e7444c074ddc41bbf027c7a"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-20T04:21:20.897Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:21:20.897Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e7444c174ddc41bbf027c7f"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-20T04:21:21.727Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:21:21.727Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e7445be74ddc41bbf027c84"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-20T04:25:34.769Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:25:34.769Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e7445bf74ddc41bbf027c89"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-20T04:25:35.391Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:25:35.391Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e74460174ddc41bbf027c8e"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-20T04:26:41.280Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:26:41.280Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e74460274ddc41bbf027c93"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-20T04:26:42.125Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:26:42.125Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e74467074ddc41bbf027c98"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-20T04:28:32.889Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:28:32.889Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e74467174ddc41bbf027c9d"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-20T04:28:33.473Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T04:28:33.473Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e748f6d74ddc41bbf027ca2"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-20T09:39:57.410Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T09:39:57.410Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e748f6e74ddc41bbf027ca7"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-20T09:39:58.308Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T09:39:58.308Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e75dbd074ddc41bbf027cac"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-21T09:18:08.116Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-21T09:18:08.116Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e75dc4474ddc41bbf027cb1"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-21T09:20:04.067Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-21T09:20:04.067Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e75f82974ddc41bbf027cb6"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-21T11:19:05.534Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-21T11:19:05.534Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e75f89774ddc41bbf027cbb"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-21T11:20:55.086Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-21T11:20:55.086Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e760b4274ddc41bbf027cc0"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-21T12:40:34.438Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-21T12:40:34.438Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e760d0474ddc41bbf027cc5"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-21T12:48:04.675Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-21T12:48:04.675Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e79f34974ddc41bbf027ce6"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-24T11:47:21.126Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-24T11:47:21.126Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e79f3e274ddc41bbf027ceb"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-24T11:49:54.649Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-24T11:49:54.649Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e7de7dd74ddc41bbf027cf2"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-27T11:47:41.492Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:47:41.492Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e7de85574ddc41bbf027cf7"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-27T11:49:41.936Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:49:41.936Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e7de85674ddc41bbf027cfc"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-27T11:49:42.895Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:49:42.895Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e7de8c374ddc41bbf027d01"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-27T11:51:31.156Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:51:31.156Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e7de8c474ddc41bbf027d06"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-27T11:51:32.092Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:51:32.092Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e7de93b74ddc41bbf027d0b"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-27T11:53:31.752Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:53:31.752Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e7de93c74ddc41bbf027d10"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-27T11:53:32.704Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-27T11:53:32.704Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e83029d74ddc41bbf027d1b"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-31T08:43:09.241Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-31T08:43:09.241Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e8334c574ddc41bbf027d20"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-03-31T12:17:09.809Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-31T12:17:09.809Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e8460ff74ddc41bbf027d28"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-01T09:38:07.708Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-01T09:38:07.708Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e8461c274ddc41bbf027d2d"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-01T09:41:22.887Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-01T09:41:22.887Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e846c4474ddc41bbf027d32"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-01T10:26:12.020Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-01T10:26:12.020Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e85e6b074ddc467b374a2ee"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-02T13:20:48.003Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-02T13:20:48.003Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e8836f174ddc467b374a2f2"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T07:27:45.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T07:27:45.868Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e886ca574ddc41c60b2895c"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T11:16:53.960Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T11:16:53.960Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e886e4974ddc41d76c5bf9a"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T11:23:53.929Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T11:23:53.929Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e88728974ddc41d76c5bfa4"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T11:42:01.991Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T11:42:01.991Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e8874a874ddc42112fd1e35"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T11:51:04.737Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T11:51:04.737Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e88754874ddc42112fd1e39"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T11:53:44.711Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T11:53:44.711Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e887c3374ddc42112fd1e3d"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T12:23:15.608Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T12:23:15.608Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e887cc074ddc42112fd1e41"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T12:25:36.547Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T12:25:36.547Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e8881ec74ddc42112fd1e45"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T12:47:40.342Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T12:47:40.342Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e8884de74ddc42112fd1e49"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T13:00:14.886Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T13:00:14.886Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e8886c574ddc42112fd1e4d"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T13:08:21.955Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T13:08:21.955Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e888c1d74ddc42112fd1e51"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T13:31:09.032Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T13:31:09.032Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e8894f874ddc42112fd1e55"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T14:08:56.811Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T14:08:56.811Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e88980374ddc42112fd1e59"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T14:21:55.107Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T14:21:55.107Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e889e0b74ddc42112fd1e5d"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-04T14:47:39.749Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-04T14:47:39.749Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e8b26d793787724431c6e87"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-06T12:55:51.170Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-06T12:55:51.170Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e8eca6193787724431c6e8e"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-09T07:10:25.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-09T07:10:25.784Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e8f0d1e93787724431c6e94"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-09T11:55:10.331Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-09T11:55:10.331Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e8f0db093787724431c6e9a"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-09T11:57:36.259Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-09T11:57:36.259Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e99e6bf93787724431c6ea0"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-17T17:26:23.027Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-17T17:26:23.027Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e99e87d93787724431c6ea6"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-17T17:33:49.894Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-17T17:33:49.894Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9acc4e93787724431c6eaa"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-18T09:45:50.208Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T09:45:50.208Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9ad80e93787724431c6eb0"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-18T10:35:58.958Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T10:35:58.958Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9ad8f493787724431c6eb4"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-18T10:39:48.881Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T10:39:48.881Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9adbe193787724431c6eb8"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-18T10:52:17.097Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T10:52:17.097Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9adce393787724431c6ebc"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-18T10:56:35.302Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T10:56:35.302Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9aea3b93787724431c6ec2"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-18T11:53:31.226Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T11:53:31.226Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9af34393787724431c6ec8"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-18T12:32:03.174Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T12:32:03.174Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9af3e793787724431c6ecc"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-18T12:34:47.375Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T12:34:47.375Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9af68a93787724431c6ed0"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-18T12:46:02.572Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T12:46:02.572Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9af88893787724431c6ed4"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-18T12:54:32.289Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T12:54:32.289Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9af8b093787724431c6ed8"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-18T12:55:12.332Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T12:55:12.332Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9afc4d93787724431c6edc"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-04-18T13:10:37.303Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-18T13:10:37.303Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eac062e9378774f0cf3cced"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-01T11:21:18.526Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-01T11:21:18.526Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eac06309378774f0cf3ccf1"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-01T11:21:20.174Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-01T11:21:20.174Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ead3b1e9378774f0cf3ccf7"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-02T09:19:26.346Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-02T09:19:26.346Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ead4ac39378774f0cf3ccfb"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-02T10:26:11.573Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-02T10:26:11.573Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ead4ac59378774f0cf3ccff"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-02T10:26:13.795Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-02T10:26:13.795Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ead50fe9378774f0cf3cd05"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-02T10:52:46.565Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-02T10:52:46.565Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ead55e69378774f0cf3cd09"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-02T11:13:42.007Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-02T11:13:42.007Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ead55e79378774f0cf3cd0d"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-02T11:13:43.597Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-02T11:13:43.597Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb00be39378774f0cf3cd11"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-04T12:34:43.540Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-04T12:34:43.540Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb00be59378774f0cf3cd15"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-04T12:34:45.346Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-04T12:34:45.346Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb00eaa9378774f0cf3cd19"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-04T12:46:34.168Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-04T12:46:34.168Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb00ead9378774f0cf3cd1d"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-04T12:46:37.431Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-04T12:46:37.431Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb3b0189378774f0cf3cd21"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-07T06:52:08.595Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-07T06:52:08.595Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb3b01a9378774f0cf3cd25"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-07T06:52:10.381Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-07T06:52:10.381Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb3b40c9378774f0cf3cd29"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-07T07:09:00.423Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-07T07:09:00.423Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb3b40d9378774f0cf3cd2d"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-07T07:09:01.982Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-07T07:09:01.982Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb3b4889378774f0cf3cd31"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-07T07:11:04.803Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-07T07:11:04.803Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb3b4899378774f0cf3cd35"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-07T07:11:05.250Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-07T07:11:05.250Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb5496f9378774f0cf3cd39"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T11:58:39.015Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T11:58:39.015Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb551a89378774f0cf3cd3c"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T12:33:44.037Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T12:33:44.037Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb551a89378774f0cf3cd40"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T12:33:44.972Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T12:33:44.972Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb551a99378774f0cf3cd44"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T12:33:45.636Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T12:33:45.636Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb551aa9378774f0cf3cd48"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T12:33:46.222Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T12:33:46.222Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55a759378774f0cf3cd4c"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:11:17.521Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:11:17.521Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55a769378774f0cf3cd50"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:11:18.478Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:11:18.478Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55c3d9378774f0cf3cd54"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:18:53.582Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:18:53.582Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55c3e9378774f0cf3cd58"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:18:54.390Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:18:54.390Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55c3f9378774f0cf3cd5c"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:18:55.045Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:18:55.045Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55c3f9378774f0cf3cd60"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:18:55.676Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:18:55.676Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55c5f9378774f0cf3cd64"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:19:27.764Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:19:27.764Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55c609378774f0cf3cd68"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:19:28.625Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:19:28.625Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55c619378774f0cf3cd6c"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:19:29.302Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:19:29.302Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55c629378774f0cf3cd70"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:19:30.220Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:19:30.220Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55c639378774f0cf3cd74"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:19:31.200Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:19:31.200Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55c649378774f0cf3cd78"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:19:32.130Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:19:32.130Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55d0f9378774f0cf3cd7c"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:22:23.803Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:22:23.803Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55d109378774f0cf3cd80"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:22:24.604Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:22:24.604Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55d119378774f0cf3cd84"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:22:25.599Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:22:25.599Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5eb55d129378774f0cf3cd88"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-08T13:22:26.240Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:22:26.240Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ebce65d9378774f0cf3cd8c"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-14T06:34:05.157Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-14T06:34:05.157Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ebce65e9378774f0cf3cd90"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-14T06:34:06.805Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-14T06:34:06.805Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecb621e93787726bfdc7981"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-25T06:13:50.758Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-25T06:13:50.758Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecb62df93787726bfdc7985"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-25T06:17:03.255Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-25T06:17:03.255Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecb63b693787726bfdc7989"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-25T06:20:38.906Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-25T06:20:38.906Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf8dcf9378775db6b38a0f"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-28T10:09:19.498Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T10:09:19.498Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf8e7c9378775db6b38a13"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-28T10:12:12.989Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T10:12:12.989Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf9ec39378775db6b38a17"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-28T11:21:39.491Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T11:21:39.491Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf9eea9378775db6b38a1b"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-28T11:22:18.549Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T11:22:18.549Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf9f3c9378775db6b38a1f"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-28T11:23:40.794Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T11:23:40.794Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf9f5a9378775db6b38a23"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-28T11:24:10.588Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T11:24:10.588Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecfa7199378775db6b38a27"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-28T11:57:13.287Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T11:57:13.287Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecfaa4f9378775db6b38a2b"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-28T12:10:55.144Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T12:10:55.144Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecfb0239378775db6b38a2e"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-28T12:35:47.951Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T12:35:47.951Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecfb1009378775db6b38a31"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-28T12:39:28.745Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T12:39:28.745Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecfbca29378775db6b38a35"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-28T13:29:06.421Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T13:29:06.421Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0af439378775db6b38a39"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-29T06:44:19.227Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T06:44:19.227Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0b4869378775db6b38a3d"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-29T07:06:46.881Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T07:06:46.881Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0b4889378775db6b38a41"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-29T07:06:48.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T07:06:48.363Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0c7319378775db6b38a45"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-29T08:26:25.297Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T08:26:25.297Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0c89a9378775db6b38a48"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-29T08:32:26.974Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T08:32:26.974Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0cb569378775db6b38a4b"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-29T08:44:06.681Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T08:44:06.681Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0cdb99378775db6b38a4f"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-29T08:54:17.097Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T08:54:17.097Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0d4879378775db6b38a53"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-29T09:23:19.929Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T09:23:19.929Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0f3b29378775db6b38a56"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-29T11:36:18.300Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T11:36:18.300Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0f44a9378775db6b38a59"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-29T11:38:50.727Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T11:38:50.727Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0fb0f9378775db6b38a5c"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-29T12:07:43.389Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T12:07:43.389Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0fd2e9378775db6b38a5f"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-29T12:16:46.951Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T12:16:46.951Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed2250f9378775db6b38a63"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T09:19:11.012Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T09:19:11.012Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed235699378775db6b38a67"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T10:28:57.975Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T10:28:57.975Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed237599378775db6b38a6b"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T10:37:13.972Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T10:37:13.972Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed242039378775db6b38a6f"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T11:22:43.537Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:22:43.537Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed242359378775db6b38a73"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T11:23:33.752Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:23:33.752Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed242de9378775db6b38a77"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T11:26:22.901Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:26:22.901Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed242e69378775db6b38a7b"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T11:26:30.775Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:26:30.775Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed245e99378775db6b38a7f"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T11:39:21.302Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:39:21.302Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed246ad9378775db6b38a83"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T11:42:37.961Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:42:37.961Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed24c8b9378775db6b38a87"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T12:07:39.422Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:07:39.422Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed24c8c9378775db6b38a8b"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T12:07:40.114Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:07:40.114Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed24c8c9378775db6b38a8f"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T12:07:40.764Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:07:40.764Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed24fc69378775db6b38a93"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T12:21:26.786Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:21:26.786Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed24fc79378775db6b38a97"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-05-30T12:21:27.416Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:21:27.416Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5efc17bb937877277f82c0c3"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-07-01T04:57:31.509Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-01T04:57:31.509Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5f0af6ab937877277f82c0c7"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-07-12T11:40:27.700Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-12T11:40:27.700Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5f0af966937877277f82c0cb"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-07-12T11:52:06.083Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-12T11:52:06.083Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5f0af967937877277f82c0cf"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-07-12T11:52:07.819Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-12T11:52:07.819Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+},
+{
+  "_id": {
+    "$oid": "5f0af968937877277f82c0d3"
+  },
+  "userId": 1,
+  "status": "Processed",
+  "createdAt": {
+    "$date": "2020-07-12T11:52:08.868Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-12T11:52:08.868Z"
+  },
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.EmailTransactionDocument"
+}]

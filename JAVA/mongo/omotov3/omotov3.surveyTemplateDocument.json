@@ -1,0 +1,3693 @@
+[{
+  "_id": {
+    "$oid": "5e4e6f1ae93867e084d45dda"
+  },
+  "templateCategories": [
+    {
+      "templateCategoryName": "CATEGORY 1",
+      "templates": [
+        {
+          "name": "TEMPLATE NAME",
+          "id": "1a",
+          "description": "",
+          "settings": {
+            "surveySettings": {
+              "isOmotoBranding": true,
+              "allowMultipleResponses": true,
+              "isCoolOfPeriod": true,
+              "coolOfPeriod": 3,
+              "redirectUrl": "",
+              "isRedirectOnCompletion": false
+            },
+            "notificationSettings": {
+              "isNotifyOnEachResponse": true,
+              "isInAppNotification": false,
+              "isEmailNotification": true,
+              "emailRecipients": [],
+              "emailSubject": "New response fromEmail ||RESPONDENT-NAME||",
+              "isAddRespondentDetailsToEmailBody": false,
+              "emailBodyContent": ""
+            }
+          },
+          "selectedTheme": {
+            "name": "Athens Grey",
+            "font": {
+              "name": "Muli",
+              "url": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+            },
+            "isSelected": true,
+            "organisationLogo": "",
+            "colors": {
+              "backgroundColor": "#f2f3f5",
+              "primaryColor": "#37bfc9",
+              "primaryColorDark": "#048C96",
+              "footerBackgroundColor": "#f7f8f9",
+              "footerPrimaryColor": "#b8b9ba",
+              "footerSecondaryColor": "#ffffff",
+              "textColorPrimary": "#ffffff",
+              "textColorSecondary": "#4a4a4a",
+              "primaryButtonTextColor": "#ffffff"
+            }
+          },
+          "pages": [
+            {
+              "pageName": "Welcome page",
+              "properties": {
+                "buttonText": "Let's Start!",
+                "headingValue": "Welcome!",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": ""
+              }
+            },
+            {
+              "pageName": "Questionnaire page",
+              "questions": [
+                {
+                  "identifier": "1575269599502",
+                  "question": "This is NPS question. The question text will appear above the Scale. And it is 10 scale rating.",
+                  "questionId": "1575269599502",
+                  "questionType": "Nps",
+                  "canChangePosition": false,
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "startScaleAt": 0,
+                    "leftLabel": "Unlikely",
+                    "centerLabel": "",
+                    "rightLabel": "Likely"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "Multiple choice question. The question text will appear above the options. Below are the options.",
+                  "identifier": "1575269599967",
+                  "questionId": "1575269599967",
+                  "questionType": "Choice",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "others": {},
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "multipleChoice": true,
+                    "selection": {
+                      "type": "Unlimited"
+                    },
+                    "randomize": false,
+                    "others": false,
+                    "vertical": true,
+                    "numberOfSelection": 0
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 1",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 2",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 3",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 4",
+                      "isChecked": false
+                    }
+                  ]
+                },
+                {
+                  "question": "This is Yes No question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600503",
+                  "questionId": "1575269600503",
+                  "questionType": "Yes / No",
+                  "canChangePosition": true,
+                  "choices": [
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "Yes"
+                    },
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "No"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is rating question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600977",
+                  "questionId": "1575269600977",
+                  "questionType": "Rating",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "customizeSteps": false,
+                    "ratingIcon": "star",
+                    "steps": [
+                      {
+                        "label": "",
+                        "value": 5
+                      },
+                      {
+                        "label": "",
+                        "value": 4
+                      },
+                      {
+                        "label": "",
+                        "value": 3
+                      },
+                      {
+                        "label": "",
+                        "value": 3
+                      },
+                      {
+                        "label": "",
+                        "value": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "question": "This is DROP_DOWN question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269601519",
+                  "questionId": "1575269601519",
+                  "questionType": "Drop down",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 1"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 2"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 3"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 4"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "alphabeticalSort": false
+                  }
+                },
+                {
+                  "question": "This is Date question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602023",
+                  "questionId": "1575269602023",
+                  "questionType": "Date",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "dateFormat": "DD/MM/YYYY"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is short text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602683",
+                  "questionId": "1575269602683",
+                  "questionType": "Short text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 50
+                  }
+                },
+                {
+                  "question": "This is long text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603335",
+                  "questionId": "1575269603335",
+                  "questionType": "Long text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 500
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603791",
+                  "questionId": "1575269603791",
+                  "questionType": "Email",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is PHONE_NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269604336",
+                  "questionId": "1575269604336",
+                  "questionType": "Phone number",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "defaultCountryCode": 91
+                  }
+                },
+                {
+                  "question": "This is LEGAL question. The question text will appear above the screen.",
+                  "identifier": "1575269604775",
+                  "questionId": "1575269604775",
+                  "questionType": "Legal",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605407",
+                  "questionId": "1575269605407",
+                  "questionType": "Statement",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "buttonText": "Done",
+                    "quotation": false
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605913",
+                  "questionId": "1575269605913",
+                  "questionType": "Number",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "minimumNumber": 0,
+                    "maximumNumber": 100
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is WEBSITE questions. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269606375",
+                  "questionId": "1575269606375",
+                  "questionType": "Website",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                }
+              ]
+            },
+            {
+              "pageName": "Thank you page",
+              "properties": {
+                "headingValue": "Thank you !",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": "",
+                "buttonText": "Close",
+                "isSocialShare": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "TEMPLATE NAME 2",
+          "id": "2a",
+          "description": "",
+          "settings": {
+            "surveySettings": {
+              "isOmotoBranding": true,
+              "allowMultipleResponses": true,
+              "isCoolOfPeriod": true,
+              "coolOfPeriod": 3,
+              "redirectUrl": "",
+              "isRedirectOnCompletion": false
+            },
+            "notificationSettings": {
+              "isNotifyOnEachResponse": true,
+              "isInAppNotification": false,
+              "isEmailNotification": true,
+              "emailRecipients": [],
+              "emailSubject": "New response fromEmail ||RESPONDENT-NAME||",
+              "isAddRespondentDetailsToEmailBody": false,
+              "emailBodyContent": ""
+            }
+          },
+          "selectedTheme": {
+            "name": "Athens Grey",
+            "font": {
+              "name": "Muli",
+              "url)": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+            },
+            "isSelected": true,
+            "organisationLogo": "",
+            "colors": {
+              "backgroundColor": "#f2f3f5",
+              "primaryColor": "#37bfc9",
+              "primaryColorDark": "#048C96",
+              "footerBackgroundColor": "#f7f8f9",
+              "footerPrimaryColor": "#b8b9ba",
+              "footerSecondaryColor": "#ffffff",
+              "textColorPrimary": "#ffffff",
+              "textColorSecondary": "#4a4a4a",
+              "primaryButtonTextColor": "#ffffff"
+            }
+          },
+          "pages": [
+            {
+              "pageName": "Welcome page",
+              "properties": {
+                "buttonText": "Let's Start!",
+                "headingValue": "Welcome!",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": ""
+              }
+            },
+            {
+              "pageName": "Questionnaire page",
+              "questions": [
+                {
+                  "identifier": "1575269599502",
+                  "question": "This is NPS question. The question text will appear above the Scale. And it is 10 scale rating.",
+                  "questionId": "1575269599502",
+                  "questionType": "Nps",
+                  "canChangePosition": false,
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "startScaleAt": 0,
+                    "leftLabel": "Unlikely",
+                    "centerLabel": "",
+                    "rightLabel": "Likely"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "Multiple choice question. The question text will appear above the options. Below are the options.",
+                  "identifier": "1575269599967",
+                  "questionId": "1575269599967",
+                  "questionType": "Choice",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "others": {},
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "multipleChoice": true,
+                    "selection": {
+                      "type": "Unlimited"
+                    },
+                    "randomize": false,
+                    "others": false,
+                    "vertical": true,
+                    "numberOfSelection": 0
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 1",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 2",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 3",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 4",
+                      "isChecked": false
+                    }
+                  ]
+                },
+                {
+                  "question": "This is Yes No question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600503",
+                  "questionId": "1575269600503",
+                  "questionType": "Yes / No",
+                  "canChangePosition": true,
+                  "choices": [
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "Yes"
+                    },
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "No"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is rating question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600977",
+                  "questionId": "1575269600977",
+                  "questionType": "Rating",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "customizeSteps": false,
+                    "ratingIcon": "star",
+                    "steps": [
+                      {
+                        "label": "",
+                        "value": 5
+                      },
+                      {
+                        "label": "",
+                        "value": 4
+                      },
+                      {
+                        "label": "",
+                        "value": 3
+                      },
+                      {
+                        "label": "",
+                        "value": 2
+                      },
+                      {
+                        "label": "",
+                        "value": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "question": "This is DROP_DOWN question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269601519",
+                  "questionId": "1575269601519",
+                  "questionType": "Drop down",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 1"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 2"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 3"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 4"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "alphabeticalSort": false
+                  }
+                },
+                {
+                  "question": "This is Date question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602023",
+                  "questionId": "1575269602023",
+                  "canChangePosition": true,
+                  "questionType": "Date",
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "dateFormat": "DD/MM/YYYY"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is short text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602683",
+                  "questionId": "1575269602683",
+                  "questionType": "Short text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 50
+                  }
+                },
+                {
+                  "question": "This is long text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603335",
+                  "questionId": "1575269603335",
+                  "questionType": "Long text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 500
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603791",
+                  "questionId": "1575269603791",
+                  "questionType": "Email",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is PHONE_NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269604336",
+                  "questionId": "1575269604336",
+                  "questionType": "Phone number",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "defaultCountryCode": 91
+                  }
+                },
+                {
+                  "question": "This is LEGAL question. The question text will appear above the screen.",
+                  "identifier": "1575269604775",
+                  "questionId": "1575269604775",
+                  "questionType": "Legal",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605407",
+                  "questionId": "1575269605407",
+                  "questionType": "Statement",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "buttonText": "Done",
+                    "quotation": false
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605913",
+                  "questionId": "1575269605913",
+                  "questionType": "Number",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "minimumNumber": 0,
+                    "maximumNumber": 100
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is WEBSITE questions. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269606375",
+                  "questionId": "1575269606375",
+                  "questionType": "Website",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                }
+              ]
+            },
+            {
+              "pageName": "Thank you page",
+              "properties": {
+                "headingValue": "Thank you !",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": "",
+                "buttonText": "Close",
+                "isSocialShare": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "templateCategoryName": "CATEGORY 2",
+      "templates": [
+        {
+          "name": "TEMPLATE NAME 3",
+          "id": "3a",
+          "description": "",
+          "settings": {
+            "surveySettings": {
+              "isOmotoBranding": true,
+              "allowMultipleResponses": true,
+              "isCoolOfPeriod": true,
+              "coolOfPeriod": 3,
+              "redirectUrl": "",
+              "isRedirectOnCompletion": false
+            },
+            "notificationSettings": {
+              "isNotifyOnEachResponse": true,
+              "isInAppNotification": false,
+              "isEmailNotification": true,
+              "emailRecipients": [],
+              "emailSubject": "New response fromEmail ||RESPONDENT-NAME||",
+              "isAddRespondentDetailsToEmailBody": false,
+              "emailBodyContent": ""
+            }
+          },
+          "selectedTheme": {
+            "name": "Athens Grey",
+            "font": {
+              "name": "Muli",
+              "url": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+            },
+            "isSelected": true,
+            "organisationLogo": "",
+            "colors": {
+              "backgroundColor": "#f2f3f5",
+              "primaryColor": "#37bfc9",
+              "primaryColorDark": "#048C96",
+              "footerBackgroundColor": "#f7f8f9",
+              "footerPrimaryColor": "#b8b9ba",
+              "footerSecondaryColor": "#ffffff",
+              "textColorPrimary": "#ffffff",
+              "textColorSecondary": "#4a4a4a",
+              "primaryButtonTextColor": "#ffffff"
+            }
+          },
+          "pages": [
+            {
+              "pageName": "Welcome page",
+              "properties": {
+                "buttonText": "Let's Start!",
+                "headingValue": "Welcome!",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": ""
+              }
+            },
+            {
+              "pageName": "Questionnaire page",
+              "questions": [
+                {
+                  "identifier": "1575269599502",
+                  "question": "This is NPS question. The question text will appear above the Scale. And it is 10 scale rating.",
+                  "questionId": "1575269599502",
+                  "questionType": "Nps",
+                  "canChangePosition": false,
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "startScaleAt": 0,
+                    "leftLabel": "Unlikely",
+                    "centerLabel": "",
+                    "rightLabel": "Likely"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "Multiple choice question. The question text will appear above the options. Below are the options.",
+                  "identifier": "1575269599967",
+                  "questionId": "1575269599967",
+                  "questionType": "Choice",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "others": {},
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "multipleChoice": true,
+                    "selection": {
+                      "type": "Unlimited"
+                    },
+                    "randomize": false,
+                    "others": false,
+                    "vertical": true,
+                    "numberOfSelection": 0
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 1",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 2",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 3",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 4",
+                      "isChecked": false
+                    }
+                  ]
+                },
+                {
+                  "question": "This is Yes No question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600503",
+                  "questionId": "1575269600503",
+                  "questionType": "Yes / No",
+                  "canChangePosition": true,
+                  "choices": [
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "Yes"
+                    },
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "No"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is rating question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600977",
+                  "questionId": "1575269600977",
+                  "questionType": "Rating",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "customizeSteps": false,
+                    "ratingIcon": "star",
+                    "steps": [
+                      {
+                        "label": "",
+                        "value": 5
+                      },
+                      {
+                        "label": "",
+                        "value": 4
+                      },
+                      {
+                        "label": "",
+                        "value": 3
+                      },
+                      {
+                        "label": "",
+                        "value": 2
+                      },
+                      {
+                        "label": "",
+                        "value": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "question": "This is DROP_DOWN question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269601519",
+                  "questionId": "1575269601519",
+                  "questionType": "Drop down",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 1"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 2"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 3"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 4"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "alphabeticalSort": false
+                  }
+                },
+                {
+                  "question": "This is Date question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602023",
+                  "questionId": "1575269602023",
+                  "questionType": "Date",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "dateFormat": "DD/MM/YYYY"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is short text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602683",
+                  "questionId": "1575269602683",
+                  "questionType": "Short text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 50
+                  }
+                },
+                {
+                  "question": "This is long text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603335",
+                  "questionId": "1575269603335",
+                  "questionType": "Long text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 500
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603791",
+                  "questionId": "1575269603791",
+                  "questionType": "Email",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is PHONE_NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269604336",
+                  "questionId": "1575269604336",
+                  "questionType": "Phone number",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "defaultCountryCode": 91
+                  }
+                },
+                {
+                  "question": "This is LEGAL question. The question text will appear above the screen.",
+                  "identifier": "1575269604775",
+                  "questionId": "1575269604775",
+                  "questionType": "Legal",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605407",
+                  "questionId": "1575269605407",
+                  "questionType": "Statement",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "buttonText": "Done",
+                    "quotation": false
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605913",
+                  "questionId": "1575269605913",
+                  "questionType": "Number",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "minimumNumber": 0,
+                    "maximumNumber": 100
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is WEBSITE questions. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269606375",
+                  "questionId": "1575269606375",
+                  "questionType": "Website",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                }
+              ]
+            },
+            {
+              "pageName": "Thank you page",
+              "properties": {
+                "headingValue": "Thank you !",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": "",
+                "buttonText": "Close",
+                "isSocialShare": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "TEMPLATE NAME 3",
+          "id": "4a",
+          "description": "",
+          "settings": {
+            "surveySettings": {
+              "isOmotoBranding": true,
+              "allowMultipleResponses": true,
+              "isCoolOfPeriod": true,
+              "coolOfPeriod": 3,
+              "redirectUrl": "",
+              "isRedirectOnCompletion": false
+            },
+            "notificationSettings": {
+              "isNotifyOnEachResponse": true,
+              "isInAppNotification": false,
+              "isEmailNotification": true,
+              "emailRecipients": [],
+              "emailSubject": "New response fromEmail ||RESPONDENT-NAME||",
+              "isAddRespondentDetailsToEmailBody": false,
+              "emailBodyContent": ""
+            }
+          },
+          "selectedTheme": {
+            "name": "Athens Grey",
+            "font": {
+              "name": "Muli",
+              "url": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+            },
+            "isSelected": true,
+            "organisationLogo": "",
+            "colors": {
+              "backgroundColor": "#f2f3f5",
+              "primaryColor": "#37bfc9",
+              "primaryColorDark": "#048C96",
+              "footerBackgroundColor": "#f7f8f9",
+              "footerPrimaryColor": "#b8b9ba",
+              "footerSecondaryColor": "#ffffff",
+              "textColorPrimary": "#ffffff",
+              "textColorSecondary": "#4a4a4a",
+              "primaryButtonTextColor": "#ffffff"
+            }
+          },
+          "pages": [
+            {
+              "pageName": "Welcome page",
+              "properties": {
+                "buttonText": "Let's Start!",
+                "headingValue": "Welcome!",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": ""
+              }
+            },
+            {
+              "pageName": "Questionnaire page",
+              "questions": [
+                {
+                  "identifier": "1575269599502",
+                  "question": "This is NPS question. The question text will appear above the Scale. And it is 10 scale rating.",
+                  "questionId": "1575269599502",
+                  "questionType": "Nps",
+                  "canChangePosition": false,
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "startScaleAt": 0,
+                    "leftLabel": "Unlikely",
+                    "centerLabel": "",
+                    "rightLabel": "Likely"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "Multiple choice question. The question text will appear above the options. Below are the options.",
+                  "identifier": "1575269599967",
+                  "questionId": "1575269599967",
+                  "questionType": "Choice",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "others": {},
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "multipleChoice": true,
+                    "selection": {
+                      "type": "Unlimited"
+                    },
+                    "randomize": false,
+                    "others": false,
+                    "vertical": true,
+                    "numberOfSelection": 0
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 1",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 2",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 3",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 4",
+                      "isChecked": false
+                    }
+                  ]
+                },
+                {
+                  "question": "This is Yes No question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600503",
+                  "questionId": "1575269600503",
+                  "canChangePosition": true,
+                  "questionType": "Yes / No",
+                  "choices": [
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "Yes"
+                    },
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "No"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is rating question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600977",
+                  "questionId": "1575269600977",
+                  "canChangePosition": true,
+                  "questionType": "Rating",
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "customizeSteps": false,
+                    "ratingIcon": "star",
+                    "steps": [
+                      {
+                        "label": "",
+                        "value": 5
+                      },
+                      {
+                        "label": "",
+                        "value": 4
+                      },
+                      {
+                        "label": "",
+                        "value": 3
+                      },
+                      {
+                        "label": "",
+                        "value": 2
+                      },
+                      {
+                        "label": "",
+                        "value": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "question": "This is DROP_DOWN question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269601519",
+                  "questionId": "1575269601519",
+                  "questionType": "Drop down",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 1"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 2"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 3"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 4"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "alphabeticalSort": false
+                  }
+                },
+                {
+                  "question": "This is Date question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602023",
+                  "questionId": "1575269602023",
+                  "canChangePosition": true,
+                  "questionType": "Date",
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "dateFormat": "DD/MM/YYYY"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is short text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602683",
+                  "questionId": "1575269602683",
+                  "questionType": "Short text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 50
+                  }
+                },
+                {
+                  "question": "This is long text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603335",
+                  "questionId": "1575269603335",
+                  "questionType": "Long text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 500
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603791",
+                  "questionId": "1575269603791",
+                  "questionType": "Email",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is PHONE_NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269604336",
+                  "questionId": "1575269604336",
+                  "questionType": "Phone number",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "defaultCountryCode": 91
+                  }
+                },
+                {
+                  "question": "This is LEGAL question. The question text will appear above the screen.",
+                  "identifier": "1575269604775",
+                  "questionId": "1575269604775",
+                  "questionType": "Legal",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605407",
+                  "questionId": "1575269605407",
+                  "questionType": "Statement",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "buttonText": "Done",
+                    "quotation": false
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605913",
+                  "questionId": "1575269605913",
+                  "questionType": "Number",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "minimumNumber": 0,
+                    "maximumNumber": 100
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is WEBSITE questions. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269606375",
+                  "questionId": "1575269606375",
+                  "questionType": "Website",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                }
+              ]
+            },
+            {
+              "pageName": "Thank you page",
+              "properties": {
+                "headingValue": "Thank you !",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": "",
+                "buttonText": "Close",
+                "isSocialShare": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "5e4e705190185647065b6ab5"
+  },
+  "templateCategories": [
+    {
+      "templateCategoryName": "CATEGORY 1",
+      "templates": [
+        {
+          "name": "TEMPLATE NAME",
+          "id": "1a",
+          "description": "",
+          "settings": {
+            "surveySettings": {
+              "isOmotoBranding": true,
+              "allowMultipleResponses": true,
+              "isCoolOfPeriod": true,
+              "coolOfPeriod": 3,
+              "redirectUrl": "",
+              "isRedirectOnCompletion": false
+            },
+            "notificationSettings": {
+              "isNotifyOnEachResponse": true,
+              "isInAppNotification": false,
+              "isEmailNotification": true,
+              "emailRecipients": [],
+              "emailSubject": "New response fromEmail ||RESPONDENT-NAME||",
+              "isAddRespondentDetailsToEmailBody": false,
+              "emailBodyContent": ""
+            }
+          },
+          "selectedTheme": {
+            "name": "Athens Grey",
+            "font": {
+              "name": "Muli",
+              "url": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+            },
+            "isSelected": true,
+            "organisationLogo": "",
+            "colors": {
+              "backgroundColor": "#f2f3f5",
+              "primaryColor": "#37bfc9",
+              "primaryColorDark": "#048C96",
+              "footerBackgroundColor": "#f7f8f9",
+              "footerPrimaryColor": "#b8b9ba",
+              "footerSecondaryColor": "#ffffff",
+              "textColorPrimary": "#ffffff",
+              "textColorSecondary": "#4a4a4a",
+              "primaryButtonTextColor": "#ffffff"
+            }
+          },
+          "pages": [
+            {
+              "pageName": "Welcome page",
+              "properties": {
+                "buttonText": "Let's Start!",
+                "headingValue": "Welcome!",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": ""
+              }
+            },
+            {
+              "pageName": "Questionnaire page",
+              "questions": [
+                {
+                  "identifier": "1575269599502",
+                  "question": "This is NPS question. The question text will appear above the Scale. And it is 10 scale rating.",
+                  "questionId": "1575269599502",
+                  "questionType": "Nps",
+                  "canChangePosition": false,
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "startScaleAt": 0,
+                    "leftLabel": "Unlikely",
+                    "centerLabel": "",
+                    "rightLabel": "Likely"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "Multiple choice question. The question text will appear above the options. Below are the options.",
+                  "identifier": "1575269599967",
+                  "questionId": "1575269599967",
+                  "questionType": "Choice",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "others": {},
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "multipleChoice": true,
+                    "selection": {
+                      "type": "Unlimited"
+                    },
+                    "randomize": false,
+                    "others": false,
+                    "vertical": true,
+                    "numberOfSelection": 0
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 1",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 2",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 3",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 4",
+                      "isChecked": false
+                    }
+                  ]
+                },
+                {
+                  "question": "This is Yes No question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600503",
+                  "questionId": "1575269600503",
+                  "questionType": "Yes / No",
+                  "canChangePosition": true,
+                  "choices": [
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "Yes"
+                    },
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "No"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is rating question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600977",
+                  "questionId": "1575269600977",
+                  "questionType": "Rating",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "customizeSteps": false,
+                    "ratingIcon": "star",
+                    "steps": [
+                      {
+                        "label": "",
+                        "value": 5
+                      },
+                      {
+                        "label": "",
+                        "value": 4
+                      },
+                      {
+                        "label": "",
+                        "value": 3
+                      },
+                      {
+                        "label": "",
+                        "value": 3
+                      },
+                      {
+                        "label": "",
+                        "value": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "question": "This is DROP_DOWN question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269601519",
+                  "questionId": "1575269601519",
+                  "questionType": "Drop down",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 1"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 2"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 3"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 4"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "alphabeticalSort": false
+                  }
+                },
+                {
+                  "question": "This is Date question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602023",
+                  "questionId": "1575269602023",
+                  "questionType": "Date",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "dateFormat": "DD/MM/YYYY"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is short text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602683",
+                  "questionId": "1575269602683",
+                  "questionType": "Short text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 50
+                  }
+                },
+                {
+                  "question": "This is long text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603335",
+                  "questionId": "1575269603335",
+                  "questionType": "Long text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 500
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603791",
+                  "questionId": "1575269603791",
+                  "questionType": "Email",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is PHONE_NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269604336",
+                  "questionId": "1575269604336",
+                  "questionType": "Phone number",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "defaultCountryCode": 91
+                  }
+                },
+                {
+                  "question": "This is LEGAL question. The question text will appear above the screen.",
+                  "identifier": "1575269604775",
+                  "questionId": "1575269604775",
+                  "questionType": "Legal",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605407",
+                  "questionId": "1575269605407",
+                  "questionType": "Statement",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "buttonText": "Done",
+                    "quotation": false
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605913",
+                  "questionId": "1575269605913",
+                  "questionType": "Number",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "minimumNumber": 0,
+                    "maximumNumber": 100
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is WEBSITE questions. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269606375",
+                  "questionId": "1575269606375",
+                  "questionType": "Website",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                }
+              ]
+            },
+            {
+              "pageName": "Thank you page",
+              "properties": {
+                "headingValue": "Thank you !",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": "",
+                "buttonText": "Close",
+                "isSocialShare": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "TEMPLATE NAME 2",
+          "id": "2a",
+          "description": "",
+          "settings": {
+            "surveySettings": {
+              "isOmotoBranding": true,
+              "allowMultipleResponses": true,
+              "isCoolOfPeriod": true,
+              "coolOfPeriod": 3,
+              "redirectUrl": "",
+              "isRedirectOnCompletion": false
+            },
+            "notificationSettings": {
+              "isNotifyOnEachResponse": true,
+              "isInAppNotification": false,
+              "isEmailNotification": true,
+              "emailRecipients": [],
+              "emailSubject": "New response fromEmail ||RESPONDENT-NAME||",
+              "isAddRespondentDetailsToEmailBody": false,
+              "emailBodyContent": ""
+            }
+          },
+          "selectedTheme": {
+            "name": "Athens Grey",
+            "font": {
+              "name": "Muli",
+              "url)": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+            },
+            "isSelected": true,
+            "organisationLogo": "",
+            "colors": {
+              "backgroundColor": "#f2f3f5",
+              "primaryColor": "#37bfc9",
+              "primaryColorDark": "#048C96",
+              "footerBackgroundColor": "#f7f8f9",
+              "footerPrimaryColor": "#b8b9ba",
+              "footerSecondaryColor": "#ffffff",
+              "textColorPrimary": "#ffffff",
+              "textColorSecondary": "#4a4a4a",
+              "primaryButtonTextColor": "#ffffff"
+            }
+          },
+          "pages": [
+            {
+              "pageName": "Welcome page",
+              "properties": {
+                "buttonText": "Let's Start!",
+                "headingValue": "Welcome!",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": ""
+              }
+            },
+            {
+              "pageName": "Questionnaire page",
+              "questions": [
+                {
+                  "identifier": "1575269599502",
+                  "question": "This is NPS question. The question text will appear above the Scale. And it is 10 scale rating.",
+                  "questionId": "1575269599502",
+                  "questionType": "Nps",
+                  "canChangePosition": false,
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "startScaleAt": 0,
+                    "leftLabel": "Unlikely",
+                    "centerLabel": "",
+                    "rightLabel": "Likely"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "Multiple choice question. The question text will appear above the options. Below are the options.",
+                  "identifier": "1575269599967",
+                  "questionId": "1575269599967",
+                  "questionType": "Choice",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "others": {},
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "multipleChoice": true,
+                    "selection": {
+                      "type": "Unlimited"
+                    },
+                    "randomize": false,
+                    "others": false,
+                    "vertical": true,
+                    "numberOfSelection": 0
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 1",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 2",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 3",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 4",
+                      "isChecked": false
+                    }
+                  ]
+                },
+                {
+                  "question": "This is Yes No question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600503",
+                  "questionId": "1575269600503",
+                  "questionType": "Yes / No",
+                  "canChangePosition": true,
+                  "choices": [
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "Yes"
+                    },
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "No"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is rating question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600977",
+                  "questionId": "1575269600977",
+                  "questionType": "Rating",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "customizeSteps": false,
+                    "ratingIcon": "star",
+                    "steps": [
+                      {
+                        "label": "",
+                        "value": 5
+                      },
+                      {
+                        "label": "",
+                        "value": 4
+                      },
+                      {
+                        "label": "",
+                        "value": 3
+                      },
+                      {
+                        "label": "",
+                        "value": 2
+                      },
+                      {
+                        "label": "",
+                        "value": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "question": "This is DROP_DOWN question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269601519",
+                  "questionId": "1575269601519",
+                  "questionType": "Drop down",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 1"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 2"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 3"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 4"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "alphabeticalSort": false
+                  }
+                },
+                {
+                  "question": "This is Date question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602023",
+                  "questionId": "1575269602023",
+                  "canChangePosition": true,
+                  "questionType": "Date",
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "dateFormat": "DD/MM/YYYY"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is short text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602683",
+                  "questionId": "1575269602683",
+                  "questionType": "Short text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 50
+                  }
+                },
+                {
+                  "question": "This is long text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603335",
+                  "questionId": "1575269603335",
+                  "questionType": "Long text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 500
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603791",
+                  "questionId": "1575269603791",
+                  "questionType": "Email",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is PHONE_NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269604336",
+                  "questionId": "1575269604336",
+                  "questionType": "Phone number",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "defaultCountryCode": 91
+                  }
+                },
+                {
+                  "question": "This is LEGAL question. The question text will appear above the screen.",
+                  "identifier": "1575269604775",
+                  "questionId": "1575269604775",
+                  "questionType": "Legal",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605407",
+                  "questionId": "1575269605407",
+                  "questionType": "Statement",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "buttonText": "Done",
+                    "quotation": false
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605913",
+                  "questionId": "1575269605913",
+                  "questionType": "Number",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "minimumNumber": 0,
+                    "maximumNumber": 100
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is WEBSITE questions. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269606375",
+                  "questionId": "1575269606375",
+                  "questionType": "Website",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                }
+              ]
+            },
+            {
+              "pageName": "Thank you page",
+              "properties": {
+                "headingValue": "Thank you !",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": "",
+                "buttonText": "Close",
+                "isSocialShare": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "templateCategoryName": "CATEGORY 2",
+      "templates": [
+        {
+          "name": "TEMPLATE NAME 3",
+          "id": "3a",
+          "description": "",
+          "settings": {
+            "surveySettings": {
+              "isOmotoBranding": true,
+              "allowMultipleResponses": true,
+              "isCoolOfPeriod": true,
+              "coolOfPeriod": 3,
+              "redirectUrl": "",
+              "isRedirectOnCompletion": false
+            },
+            "notificationSettings": {
+              "isNotifyOnEachResponse": true,
+              "isInAppNotification": false,
+              "isEmailNotification": true,
+              "emailRecipients": [],
+              "emailSubject": "New response fromEmail ||RESPONDENT-NAME||",
+              "isAddRespondentDetailsToEmailBody": false,
+              "emailBodyContent": ""
+            }
+          },
+          "selectedTheme": {
+            "name": "Athens Grey",
+            "font": {
+              "name": "Muli",
+              "url": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+            },
+            "isSelected": true,
+            "organisationLogo": "",
+            "colors": {
+              "backgroundColor": "#f2f3f5",
+              "primaryColor": "#37bfc9",
+              "primaryColorDark": "#048C96",
+              "footerBackgroundColor": "#f7f8f9",
+              "footerPrimaryColor": "#b8b9ba",
+              "footerSecondaryColor": "#ffffff",
+              "textColorPrimary": "#ffffff",
+              "textColorSecondary": "#4a4a4a",
+              "primaryButtonTextColor": "#ffffff"
+            }
+          },
+          "pages": [
+            {
+              "pageName": "Welcome page",
+              "properties": {
+                "buttonText": "Let's Start!",
+                "headingValue": "Welcome!",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": ""
+              }
+            },
+            {
+              "pageName": "Questionnaire page",
+              "questions": [
+                {
+                  "identifier": "1575269599502",
+                  "question": "This is NPS question. The question text will appear above the Scale. And it is 10 scale rating.",
+                  "questionId": "1575269599502",
+                  "questionType": "Nps",
+                  "canChangePosition": false,
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "startScaleAt": 0,
+                    "leftLabel": "Unlikely",
+                    "centerLabel": "",
+                    "rightLabel": "Likely"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "Multiple choice question. The question text will appear above the options. Below are the options.",
+                  "identifier": "1575269599967",
+                  "questionId": "1575269599967",
+                  "questionType": "Choice",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "others": {},
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "multipleChoice": true,
+                    "selection": {
+                      "type": "Unlimited"
+                    },
+                    "randomize": false,
+                    "others": false,
+                    "vertical": true,
+                    "numberOfSelection": 0
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 1",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 2",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 3",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 4",
+                      "isChecked": false
+                    }
+                  ]
+                },
+                {
+                  "question": "This is Yes No question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600503",
+                  "questionId": "1575269600503",
+                  "questionType": "Yes / No",
+                  "canChangePosition": true,
+                  "choices": [
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "Yes"
+                    },
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "No"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is rating question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600977",
+                  "questionId": "1575269600977",
+                  "questionType": "Rating",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "customizeSteps": false,
+                    "ratingIcon": "star",
+                    "steps": [
+                      {
+                        "label": "",
+                        "value": 5
+                      },
+                      {
+                        "label": "",
+                        "value": 4
+                      },
+                      {
+                        "label": "",
+                        "value": 3
+                      },
+                      {
+                        "label": "",
+                        "value": 2
+                      },
+                      {
+                        "label": "",
+                        "value": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "question": "This is DROP_DOWN question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269601519",
+                  "questionId": "1575269601519",
+                  "questionType": "Drop down",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 1"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 2"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 3"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 4"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "alphabeticalSort": false
+                  }
+                },
+                {
+                  "question": "This is Date question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602023",
+                  "questionId": "1575269602023",
+                  "questionType": "Date",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "dateFormat": "DD/MM/YYYY"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is short text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602683",
+                  "questionId": "1575269602683",
+                  "questionType": "Short text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 50
+                  }
+                },
+                {
+                  "question": "This is long text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603335",
+                  "questionId": "1575269603335",
+                  "questionType": "Long text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 500
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603791",
+                  "questionId": "1575269603791",
+                  "questionType": "Email",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is PHONE_NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269604336",
+                  "questionId": "1575269604336",
+                  "questionType": "Phone number",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "defaultCountryCode": 91
+                  }
+                },
+                {
+                  "question": "This is LEGAL question. The question text will appear above the screen.",
+                  "identifier": "1575269604775",
+                  "questionId": "1575269604775",
+                  "questionType": "Legal",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605407",
+                  "questionId": "1575269605407",
+                  "questionType": "Statement",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "buttonText": "Done",
+                    "quotation": false
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605913",
+                  "questionId": "1575269605913",
+                  "questionType": "Number",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "minimumNumber": 0,
+                    "maximumNumber": 100
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is WEBSITE questions. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269606375",
+                  "questionId": "1575269606375",
+                  "questionType": "Website",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                }
+              ]
+            },
+            {
+              "pageName": "Thank you page",
+              "properties": {
+                "headingValue": "Thank you !",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": "",
+                "buttonText": "Close",
+                "isSocialShare": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "TEMPLATE NAME 3",
+          "id": "4a",
+          "description": "",
+          "settings": {
+            "surveySettings": {
+              "isOmotoBranding": true,
+              "allowMultipleResponses": true,
+              "isCoolOfPeriod": true,
+              "coolOfPeriod": 3,
+              "redirectUrl": "",
+              "isRedirectOnCompletion": false
+            },
+            "notificationSettings": {
+              "isNotifyOnEachResponse": true,
+              "isInAppNotification": false,
+              "isEmailNotification": true,
+              "emailRecipients": [],
+              "emailSubject": "New response fromEmail ||RESPONDENT-NAME||",
+              "isAddRespondentDetailsToEmailBody": false,
+              "emailBodyContent": ""
+            }
+          },
+          "selectedTheme": {
+            "name": "Athens Grey",
+            "font": {
+              "name": "Muli",
+              "url": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+            },
+            "isSelected": true,
+            "organisationLogo": "",
+            "colors": {
+              "backgroundColor": "#f2f3f5",
+              "primaryColor": "#37bfc9",
+              "primaryColorDark": "#048C96",
+              "footerBackgroundColor": "#f7f8f9",
+              "footerPrimaryColor": "#b8b9ba",
+              "footerSecondaryColor": "#ffffff",
+              "textColorPrimary": "#ffffff",
+              "textColorSecondary": "#4a4a4a",
+              "primaryButtonTextColor": "#ffffff"
+            }
+          },
+          "pages": [
+            {
+              "pageName": "Welcome page",
+              "properties": {
+                "buttonText": "Let's Start!",
+                "headingValue": "Welcome!",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": ""
+              }
+            },
+            {
+              "pageName": "Questionnaire page",
+              "questions": [
+                {
+                  "identifier": "1575269599502",
+                  "question": "This is NPS question. The question text will appear above the Scale. And it is 10 scale rating.",
+                  "questionId": "1575269599502",
+                  "questionType": "Nps",
+                  "canChangePosition": false,
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "startScaleAt": 0,
+                    "leftLabel": "Unlikely",
+                    "centerLabel": "",
+                    "rightLabel": "Likely"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "Multiple choice question. The question text will appear above the options. Below are the options.",
+                  "identifier": "1575269599967",
+                  "questionId": "1575269599967",
+                  "questionType": "Choice",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "others": {},
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "multipleChoice": true,
+                    "selection": {
+                      "type": "Unlimited"
+                    },
+                    "randomize": false,
+                    "others": false,
+                    "vertical": true,
+                    "numberOfSelection": 0
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 1",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 2",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 3",
+                      "isChecked": false
+                    },
+                    {
+                      "identifier": "1575269599967",
+                      "choiceId": 0,
+                      "text": "Option 4",
+                      "isChecked": false
+                    }
+                  ]
+                },
+                {
+                  "question": "This is Yes No question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600503",
+                  "questionId": "1575269600503",
+                  "canChangePosition": true,
+                  "questionType": "Yes / No",
+                  "choices": [
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "Yes"
+                    },
+                    {
+                      "identifier": "1575269600503",
+                      "choiceId": 0,
+                      "text": "No"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is rating question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269600977",
+                  "questionId": "1575269600977",
+                  "canChangePosition": true,
+                  "questionType": "Rating",
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "customizeSteps": false,
+                    "ratingIcon": "star",
+                    "steps": [
+                      {
+                        "label": "",
+                        "value": 5
+                      },
+                      {
+                        "label": "",
+                        "value": 4
+                      },
+                      {
+                        "label": "",
+                        "value": 3
+                      },
+                      {
+                        "label": "",
+                        "value": 2
+                      },
+                      {
+                        "label": "",
+                        "value": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "question": "This is DROP_DOWN question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269601519",
+                  "questionId": "1575269601519",
+                  "questionType": "Drop down",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "choices": [
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 1"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 2"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 3"
+                    },
+                    {
+                      "identifier": "1575269601519",
+                      "choiceId": 0,
+                      "text": "Option 4"
+                    }
+                  ],
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "alphabeticalSort": false
+                  }
+                },
+                {
+                  "question": "This is Date question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602023",
+                  "questionId": "1575269602023",
+                  "canChangePosition": true,
+                  "questionType": "Date",
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "dateFormat": "DD/MM/YYYY"
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is short text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269602683",
+                  "questionId": "1575269602683",
+                  "questionType": "Short text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 50
+                  }
+                },
+                {
+                  "question": "This is long text question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603335",
+                  "questionId": "1575269603335",
+                  "questionType": "Long text",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "maxCharacter": 500
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269603791",
+                  "questionId": "1575269603791",
+                  "questionType": "Email",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is PHONE_NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269604336",
+                  "questionId": "1575269604336",
+                  "questionType": "Phone number",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "defaultCountryCode": 91
+                  }
+                },
+                {
+                  "question": "This is LEGAL question. The question text will appear above the screen.",
+                  "identifier": "1575269604775",
+                  "questionId": "1575269604775",
+                  "questionType": "Legal",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": true,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                },
+                {
+                  "question": "This is email question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605407",
+                  "questionId": "1575269605407",
+                  "questionType": "Statement",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "buttonText": "Done",
+                    "quotation": false
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is NUMBER question. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269605913",
+                  "questionId": "1575269605913",
+                  "questionType": "Number",
+                  "canChangePosition": true,
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null,
+                    "minimumNumber": 0,
+                    "maximumNumber": 100
+                  },
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  }
+                },
+                {
+                  "question": "This is WEBSITE questions. The question text will appear above the choice. And it is 10 scale rating.",
+                  "identifier": "1575269606375",
+                  "questionId": "1575269606375",
+                  "questionType": "Website",
+                  "canChangePosition": true,
+                  "logicJumps": {
+                    "blocks": [],
+                    "defaultJump": null,
+                    "defaultJumpIndex": null
+                  },
+                  "attributes": {
+                    "required": false,
+                    "requiredErrorMessage": "This question is mandatory!",
+                    "isDescriptionEnabled": false,
+                    "description": null,
+                    "image": null,
+                    "video": null
+                  }
+                }
+              ]
+            },
+            {
+              "pageName": "Thank you page",
+              "properties": {
+                "headingValue": "Thank you !",
+                "subHeadingValue": "This is a sample survey design for us to visualise how the welcome page on the survey would look like. The welcome text could be as big as a paragraph like this or it could be just a couple of lines. The design must be minimalist and would focus on the use of great typeface to create beautiful design. Of course, the colour and theme is configurable.",
+                "backgroundImage": "",
+                "buttonText": "Close",
+                "isSocialShare": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "5e88684967d2815aa95cd8c1"
+  },
+  "touchPoint": "Shopify Order create",
+  "templateCategories": [
+    {
+      "templateCategoryName": "CATEGORY 1"
+    }
+  ]
+}]

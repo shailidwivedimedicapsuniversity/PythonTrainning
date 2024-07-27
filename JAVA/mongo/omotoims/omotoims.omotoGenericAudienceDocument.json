@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "5e9af10f93787724431c6ec5"
+  },
+  "vendor": "SHOPIFY",
+  "webhookType": "orders/create",
+  "accountId": 4,
+  "integrationKey": "ce1c68d0-a3c0-40a2-a3fa-790eab4b4ce0",
+  "_class": "io.omoto.flow.infrastructure.entities.mongo.OmotoGenericAudienceDocument"
+}]

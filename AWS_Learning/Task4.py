@@ -1,0 +1,1 @@
+# Create a trigger on S3 to invoke Lambda on file upload (ensure the Lambda function processes the file correctly upon trigger) - To set up a trigger on Amazon S3 that invokes a Lambda function when a file is uploaded

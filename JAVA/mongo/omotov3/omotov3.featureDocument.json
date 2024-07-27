@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "5ed0b45bad6818f6c11e2ae5"
+  },
+  "accountId": 4,
+  "noOfUsers": 17
+},
+{
+  "_id": {
+    "$oid": "5ed242029378773e902ffa90"
+  },
+  "accountId": 30,
+  "isMultiLingual": false,
+  "isWorkFlow": false,
+  "isMultiLevelWorkFlow": false,
+  "isEmailChannel": false,
+  "noOfUsers": 17,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.FeatureDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed242359378773e902ffa92"
+  },
+  "accountId": 31,
+  "isMultiLingual": false,
+  "isWorkFlow": false,
+  "isMultiLevelWorkFlow": false,
+  "isEmailChannel": false,
+  "noOfUsers": 17,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.FeatureDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed242de93787745cef12ac1"
+  },
+  "accountId": 32,
+  "isMultiLingual": false,
+  "isWorkFlow": false,
+  "isMultiLevelWorkFlow": false,
+  "isEmailChannel": false,
+  "noOfUsers": 17,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.FeatureDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed242e693787745cef12ac6"
+  },
+  "accountId": 33,
+  "isMultiLingual": false,
+  "isWorkFlow": false,
+  "isMultiLevelWorkFlow": false,
+  "isEmailChannel": false,
+  "noOfUsers": 17,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.FeatureDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed246ad93787745cef12ad6"
+  },
+  "accountId": 34,
+  "isMultiLingual": false,
+  "isWorkFlow": false,
+  "isMultiLevelWorkFlow": false,
+  "isEmailChannel": false,
+  "noOfUsers": 17,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.FeatureDocument"
+},
+{
+  "_id": {
+    "$oid": "5efc17b99378772731dc90c1"
+  },
+  "accountId": 35,
+  "isMultiLingual": false,
+  "isWorkFlow": false,
+  "isMultiLevelWorkFlow": false,
+  "isEmailChannel": false,
+  "noOfUsers": 17,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.FeatureDocument"
+}]

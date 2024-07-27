@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "5ed208699378770a3933ac7b"
+  },
+  "name": "tdga",
+  "description": "rb",
+  "accountId": 4,
+  "userId": 4,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Prateek",
+      "lastName": "Pawar",
+      "emailID": "prateek@omoto.io",
+      "phoneNumber": "7892264566",
+      "status": "a4899247-5049-4269-92d2-dbe205142a0a",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceNewDocument"
+}]

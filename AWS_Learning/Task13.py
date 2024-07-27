@@ -1,0 +1,1 @@
+# Configure Git with SSH key (ensure secure and seamless access to the repository)

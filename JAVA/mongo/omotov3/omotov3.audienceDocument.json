@@ -1,0 +1,1699 @@
+[{
+  "_id": {
+    "$oid": "5ecf8b969378772dea001613"
+  },
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Prateek",
+      "lastName": "Pawar",
+      "emailID": "prateek@omoto.io",
+      "phoneNumber": "7892264566",
+      "status": "003797a0-91c2-40da-bac5-c0057e7c8fcd",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-28T09:59:50.164Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T09:59:50.164Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0be57937877417b64d92e"
+  },
+  "name": "Demo testing 1",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "description": "Demo testing 1",
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Paras",
+      "lastName": "Deshbhratar",
+      "emailID": "paras@omoto.io",
+      "phoneNumber": "9096462211",
+      "status": "592850c4-65dd-4a13-987d-9a45f40bf15b",
+      "invalidCells": [],
+      "rowIndex": 0
+    },
+    {
+      "firstName": "Venkatest",
+      "lastName": "",
+      "emailID": "vg9213@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "11c53f3e-2135-4547-825e-bb8f044b5dce",
+      "invalidCells": [],
+      "rowIndex": 1
+    },
+    {
+      "firstName": "ParasD",
+      "lastName": "",
+      "emailID": "paras.d13@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "0e447e68-f015-41d0-933b-beeab4b75611",
+      "invalidCells": [],
+      "rowIndex": 2
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-29T07:48:39.556Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T07:48:39.556Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0bfe2937877417b64d937"
+  },
+  "name": "Auto",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Paras",
+      "lastName": "Deshbhratar",
+      "emailID": "paras@omoto.io",
+      "phoneNumber": "9096462211",
+      "status": "a1d6b062-076f-4bd7-9b05-949111437b23",
+      "invalidCells": [],
+      "rowIndex": 0
+    },
+    {
+      "firstName": "Venkatest",
+      "lastName": "",
+      "emailID": "vg9213@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "0a44179f-b403-4638-bdb4-5f2eaf634d45",
+      "invalidCells": [],
+      "rowIndex": 1
+    },
+    {
+      "firstName": "ParasD",
+      "lastName": "",
+      "emailID": "paras.d13@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "5d685dcb-7f18-4f01-9c25-2df1bffb13cb",
+      "invalidCells": [],
+      "rowIndex": 2
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-29T07:55:14.290Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T07:55:14.290Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0c331937877417b64d947"
+  },
+  "name": "Demo testing 1",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "description": "Demo testing 1",
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Paras",
+      "lastName": "Deshbhratar",
+      "emailID": "paras@omoto.io",
+      "phoneNumber": "9096462211",
+      "status": "11106a98-b784-4abb-9140-7874b644741a",
+      "invalidCells": [],
+      "rowIndex": 0
+    },
+    {
+      "firstName": "Venkatest",
+      "lastName": "",
+      "emailID": "vg9213@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "5ffe9079-a073-4e35-b50a-dcc4099b3d4d",
+      "invalidCells": [],
+      "rowIndex": 1
+    },
+    {
+      "firstName": "ParasD",
+      "lastName": "",
+      "emailID": "paras.d13@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "00fb2570-035c-4886-a1e8-e1fedcf1a452",
+      "invalidCells": [],
+      "rowIndex": 2
+    }
+  ],
+  "audienceId": "5ed0be57937877417b64d92f",
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-29T08:09:21.788Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T08:09:21.788Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0c681937877417b64d951"
+  },
+  "name": "Demo testing 1",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "description": "Demo testing 1",
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Paras",
+      "lastName": "Deshbhratar",
+      "emailID": "paras@omoto.io",
+      "phoneNumber": "9096462211",
+      "status": "e1cf825b-d33f-4d28-ad55-071f72837d02",
+      "invalidCells": [],
+      "rowIndex": 0
+    },
+    {
+      "firstName": "Venkatest",
+      "lastName": "",
+      "emailID": "vg9213@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "0a2bc522-3f49-43b4-8ede-89b3e04fc497",
+      "invalidCells": [],
+      "rowIndex": 1
+    },
+    {
+      "firstName": "ParasD",
+      "lastName": "",
+      "emailID": "paras.d13@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "2fb38cf2-3361-4866-9ca2-4098ae7f4bb5",
+      "invalidCells": [],
+      "rowIndex": 2
+    }
+  ],
+  "audienceId": "5ed0be57937877417b64d92f",
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-29T08:23:29.580Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T08:23:29.580Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0c87f937877417b64d95f"
+  },
+  "name": "Testing 909",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Paras",
+      "lastName": "Deshbhratar",
+      "emailID": "paras@omoto.io",
+      "phoneNumber": "9096462211",
+      "status": "6a40f03b-69c4-4bc0-8c11-2dba66ea6c88",
+      "invalidCells": [],
+      "rowIndex": 0
+    },
+    {
+      "firstName": "Venkatest",
+      "lastName": "",
+      "emailID": "vg9213@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "219fb8df-70ff-460b-bc14-7821b2b7e7e5",
+      "invalidCells": [],
+      "rowIndex": 1
+    },
+    {
+      "firstName": "ParasD",
+      "lastName": "",
+      "emailID": "paras.d13@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "c78b15b6-0d1a-4a65-bc18-bc32a8937a54",
+      "invalidCells": [],
+      "rowIndex": 2
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-29T08:31:59.756Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T08:31:59.756Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0d443937877417b64d971"
+  },
+  "name": "First audience",
+  "accountId": 18,
+  "userId": 19,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "33b43a24-9ba4-4d6f-bcea-3b23f34b3c55",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-29T09:22:11.360Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T09:22:11.360Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0d808937877417b64d979"
+  },
+  "name": "TEST111",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Paras",
+      "lastName": "Deshbhratar",
+      "emailID": "paras@omoto.io",
+      "phoneNumber": "9096462211",
+      "status": "b664fe1e-4731-4a18-9291-20839d0b7c76",
+      "invalidCells": [],
+      "rowIndex": 0
+    },
+    {
+      "firstName": "Venkatest",
+      "lastName": "",
+      "emailID": "vg9213@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "5c24346d-b055-4a78-84af-e0eb35c2707d",
+      "invalidCells": [],
+      "rowIndex": 1
+    },
+    {
+      "firstName": "ParasD",
+      "lastName": "",
+      "emailID": "paras.d13@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "32a8b709-18ee-4bf7-ab46-0bf165f57e0b",
+      "invalidCells": [],
+      "rowIndex": 2
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-29T09:38:16.386Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T09:38:16.386Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0f42e9378775b26ef9d29"
+  },
+  "name": "First audience",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "description": "a",
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Prateek",
+      "lastName": "Pawar",
+      "emailID": "prateek@omoto.io",
+      "phoneNumber": "7892264566",
+      "status": "b90e33c4-8005-485a-843c-52838bbba4f0",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-29T11:38:22.827Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T11:38:22.827Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0faf99378775b26ef9d30"
+  },
+  "name": "Test 111",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Paras",
+      "lastName": "Deshbhratar",
+      "emailID": "paras@omoto.io",
+      "phoneNumber": "9096462211",
+      "status": "cc990735-9cb5-4450-842c-d5d4442a5318",
+      "invalidCells": [],
+      "rowIndex": 0
+    },
+    {
+      "firstName": "Venkatest",
+      "lastName": "",
+      "emailID": "vg9213@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "17b02366-7641-40bd-9683-282d2af21022",
+      "invalidCells": [],
+      "rowIndex": 1
+    },
+    {
+      "firstName": "ParasD",
+      "lastName": "",
+      "emailID": "paras.d13@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "17dc88e9-925a-4ff2-995a-43e8a66947a5",
+      "invalidCells": [],
+      "rowIndex": 2
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-29T12:07:21.153Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T12:07:21.153Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1ce6d9378770cfcbdf088"
+  },
+  "name": "First audience",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "description": "a",
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Paras",
+      "lastName": "Deshbhratar",
+      "emailID": "paras@omoto.io",
+      "phoneNumber": "9096462211",
+      "status": "e223c74a-277b-4b53-82c9-2d04e400706a",
+      "invalidCells": [],
+      "rowIndex": 0
+    },
+    {
+      "firstName": "Venkatest",
+      "lastName": "",
+      "emailID": "vg9213@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "fa706cc6-90d5-4744-b736-509f5aa4f8e2",
+      "invalidCells": [],
+      "rowIndex": 1
+    },
+    {
+      "firstName": "ParasD",
+      "lastName": "",
+      "emailID": "paras.d13@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "b2983931-2a9a-47d5-be0b-39ab184da33a",
+      "invalidCells": [],
+      "rowIndex": 2
+    }
+  ],
+  "audienceId": "5ed0f42e9378775b26ef9d2a",
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T03:09:33.563Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T03:09:33.563Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1cff59378770cfcbdf08f"
+  },
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Paras",
+      "lastName": "Deshbhratar",
+      "emailID": "paras@omoto.io",
+      "phoneNumber": "9096462211",
+      "status": "d444e3bb-a48e-4ae6-a774-6608c592958c",
+      "invalidCells": [],
+      "rowIndex": 0
+    },
+    {
+      "firstName": "Venkatest",
+      "lastName": "",
+      "emailID": "vg9213@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "730ae1a5-7050-4938-9252-07bcbe59acd9",
+      "invalidCells": [],
+      "rowIndex": 1
+    },
+    {
+      "firstName": "ParasD",
+      "lastName": "",
+      "emailID": "paras.d13@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "4f6508e3-61dd-41b9-a053-9bcfc5ceffb6",
+      "invalidCells": [],
+      "rowIndex": 2
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T03:16:05.777Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T03:16:05.777Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1d04a9378770cfcbdf099"
+  },
+  "name": "AAAAAAAAA",
+  "accountId": 19,
+  "userId": 20,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "5853092b-9849-47b7-b942-e2090f773426",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T03:17:30.530Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T03:17:30.530Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1d2109378770cfcbdf0a3"
+  },
+  "name": "Name 1",
+  "accountId": 19,
+  "userId": 20,
+  "createAudience": false,
+  "createContacts": false,
+  "description": "desc 1",
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "a93d7e79-a322-4866-be13-256cfd814af2",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T03:25:04.521Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T03:25:04.521Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1d2389378770cfcbdf0a7"
+  },
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Paras",
+      "lastName": "Deshbhratar",
+      "emailID": "paras@omoto.io",
+      "phoneNumber": "9096462211",
+      "status": "99e70855-5de9-4569-a6f4-9c4d724a0014",
+      "invalidCells": [],
+      "rowIndex": 0
+    },
+    {
+      "firstName": "Venkatest",
+      "lastName": "",
+      "emailID": "vg9213@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "9b02641e-e54f-4db9-9fcf-b4e5f6c53422",
+      "invalidCells": [],
+      "rowIndex": 1
+    },
+    {
+      "firstName": "ParasD",
+      "lastName": "",
+      "emailID": "paras.d13@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "b1b5dea2-52f5-43f6-92a0-ce4766165583",
+      "invalidCells": [],
+      "rowIndex": 2
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T03:25:44.042Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T03:25:44.042Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1ee439378770cfcbdf0b6"
+  },
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "b415a8ff-b0d6-4f91-81fe-0cd55205dfad",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T05:25:23.782Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T05:25:23.782Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1ef299378770cfcbdf0ba"
+  },
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "74323d43-1fc8-47f2-93b0-77856307e4df",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T05:29:13.548Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T05:29:13.548Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1f0169378770cfcbdf0be"
+  },
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "30c26544-a1a1-44bf-86cf-019836251c8c",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T05:33:10.146Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T05:33:10.146Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1f0d99378770cfcbdf0c2"
+  },
+  "name": "AAAAAAAAA",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "e3b7cd0a-3999-4daf-a1a5-0e779fa89a3d",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T05:36:25.668Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T05:36:25.668Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1f28b9378770cfcbdf0c6"
+  },
+  "name": "sakjnhdiknask",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "description": "askdioasjdok",
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "0d97feb5-5ebd-45f1-b403-565c076f3f41",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T05:43:39.185Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T05:43:39.185Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1f3b99378770cfcbdf0ca"
+  },
+  "name": "First audience",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "e5cbc6dc-36a1-439d-bfbb-1dc2ba73cc7f",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T05:48:41.684Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T05:48:41.684Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1f4809378770cfcbdf0ce"
+  },
+  "name": "AAAAAAAAA",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "92adc8c4-fee8-465b-9754-f89725feb0f2",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T05:52:00.729Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T05:52:00.729Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1f4f09378770cfcbdf0d2"
+  },
+  "name": "AAAAAAAAA",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "367151fe-783e-4b81-8233-3de715ef82d1",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T05:53:52.675Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T05:53:52.675Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed1f7fb9378770cfcbdf0d6"
+  },
+  "name": "AAAAAAAAA",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "5717cc57-544b-4218-8eb4-56910cc3d1d7",
+      "invalidCells": [],
+      "rowIndex": 0,
+      "isEdited": true
+    }
+  ],
+  "audienceId": "5ed1f4f09378770cfcbdf0d3",
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T06:06:51.070Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T06:06:51.070Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed20c1e9378770ef8954909"
+  },
+  "name": "Create audience testing",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Paras",
+      "lastName": "Deshbhratar",
+      "emailID": "paras@omoto.io",
+      "phoneNumber": "9096462211",
+      "status": "41b6cc7d-5f86-4b46-9b5a-6cb85b4953cf",
+      "invalidCells": [],
+      "rowIndex": 0
+    },
+    {
+      "firstName": "Venkatest",
+      "lastName": "",
+      "emailID": "vg9213@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "7c58116b-94d2-4bce-8c63-1c7695503ce2",
+      "invalidCells": [],
+      "rowIndex": 1
+    },
+    {
+      "firstName": "ParasD",
+      "lastName": "",
+      "emailID": "paras.d13@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "b298e8e6-51c7-4824-b3f6-5fa486ae1b22",
+      "invalidCells": [],
+      "rowIndex": 2
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T07:32:46.159Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T07:32:46.159Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed20c2f9378770ef8954913"
+  },
+  "name": "grtav",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "description": "ar",
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Prateek",
+      "lastName": "Pawar",
+      "emailID": "prateek@omoto.io",
+      "phoneNumber": "7892264566",
+      "status": "be3c4ed8-0147-4f67-a1eb-6f2eab3e43ed",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T07:33:03.779Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T07:33:03.779Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed224ec9378770ef8954923"
+  },
+  "name": "First audience",
+  "accountId": 19,
+  "userId": 20,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "4d072dbb-10a6-4133-9e90-a0c014ca8981",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T09:18:36.874Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T09:18:36.874Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed245be93787745cef12acf"
+  },
+  "name": "fathats",
+  "accountId": 31,
+  "userId": 32,
+  "createAudience": false,
+  "createContacts": false,
+  "description": "hvga",
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "Prateek",
+      "lastName": "Pawar",
+      "emailID": "prateek@omoto.io",
+      "phoneNumber": "7892264566",
+      "status": "b127e3be-1400-4bab-b203-0b4f1dbc3450",
+      "invalidCells": [],
+      "rowIndex": 0
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T11:38:38.528Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:38:38.528Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed24c6193787745cef12adf"
+  },
+  "name": "Demo campaign 1 audience",
+  "accountId": 34,
+  "userId": 35,
+  "createAudience": false,
+  "createContacts": false,
+  "description": "Demo campaign 1 audience description",
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [
+    "First Name"
+  ],
+  "contacts": [
+    {
+      "firstName": "Paras",
+      "lastName": "Deshbhratar",
+      "emailID": "paras@omoto.io",
+      "phoneNumber": "9096462211",
+      "status": "02a1690b-8e78-4677-b2fb-354d2bd6647d",
+      "invalidCells": [],
+      "rowIndex": 0
+    },
+    {
+      "firstName": "Venkatest",
+      "lastName": "",
+      "emailID": "vg9213@gmail.com",
+      "phoneNumber": "9096462211",
+      "status": "321ccbdf-8897-4c82-9719-0c7c18778c15",
+      "invalidCells": [],
+      "rowIndex": 1
+    },
+    {
+      "firstName": "vivek",
+      "lastName": "J",
+      "emailID": "vivek@omoto.io",
+      "phoneNumber": "9096462211",
+      "status": "5d3ba2a9-db2e-49a5-9962-730e084fd9c7",
+      "invalidCells": [],
+      "rowIndex": 2,
+      "isEdited": true
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T12:06:57.870Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:06:57.870Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed2538693787745cef12aef"
+  },
+  "name": "Test 1 audience",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    },
+    {
+      "field": "phoneNumber",
+      "mappedTo": "Phone Number"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "0f5c33c4-7fe8-4e81-9aae-ae858d8c64a3",
+      "invalidCells": [],
+      "rowIndex": 0,
+      "isEdited": true
+    }
+  ],
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T12:37:26.744Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:37:26.744Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed2554d93787745cef12af3"
+  },
+  "name": "Edited audience",
+  "accountId": 4,
+  "userId": 4,
+  "createAudience": false,
+  "createContacts": false,
+  "description": "Sample description",
+  "mappedFields": [
+    {
+      "field": "firstName",
+      "mappedTo": "First Name"
+    },
+    {
+      "field": "lastName",
+      "mappedTo": "Last Name"
+    },
+    {
+      "field": "emailID",
+      "mappedTo": "Email ID"
+    }
+  ],
+  "createdFields": [],
+  "contacts": [
+    {
+      "firstName": "venkatesh",
+      "lastName": "K",
+      "emailID": "venkatesh@omoto.io",
+      "phoneNumber": "8496014792\r",
+      "status": "e451b8c4-9837-4177-9cde-510ecf576d99",
+      "invalidCells": [],
+      "rowIndex": 0,
+      "isEdited": true
+    }
+  ],
+  "audienceId": "5ed1f28b9378770cfcbdf0c7",
+  "createdBy": 0,
+  "updatedBy": 0,
+  "createdAt": {
+    "$date": "2020-05-30T12:45:01.884Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T12:45:01.884Z"
+  },
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.AudienceDocument"
+}]

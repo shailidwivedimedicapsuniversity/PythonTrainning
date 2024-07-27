@@ -1,0 +1,4 @@
+<omoto-survey-lib *ngIf="showSurvey" [surveyContent]="survey" [testMode]="false"
+(surveyResponseEmitter)="emitResponse($event)"></omoto-survey-lib>
+
+<omoto-survey-lib *ngIf="!showSurvey" [surveyContent]="newSurveyContent" [testMode]="false" (surveyResponseEmitter)="emitResponse($event)"></omoto-survey-lib>

@@ -1,0 +1,285 @@
+[{
+  "_id": {
+    "$oid": "5e95a0ee9378770201543135"
+  },
+  "vendorName": "Stripe",
+  "invoiceId": "in_1GUBUpL7dMvc9z2ja5SU8ylw",
+  "createdAt": {
+    "$date": "1970-01-19T08:33:24.707Z"
+  },
+  "currentEnd": {
+    "$date": "1970-01-19T09:16:36.785Z"
+  },
+  "customerId": "cus_H2FzRXsVqexhZj",
+  "subscriptionStatus": "active",
+  "planId": "plan_Gvqghq2kMrZ4wP",
+  "currentStartAt": {
+    "$date": "1970-01-19T08:33:24.785Z"
+  },
+  "subscriptionId": "sub_H2FzWjEgCid4eX",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.SubscriptionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecb62229378772da8e917c1"
+  },
+  "vendorName": "Stripe",
+  "omotoAccountId": 7,
+  "invoiceId": "in_1GmZZOL7dMvc9z2jGWxMBAnZ",
+  "createdAt": {
+    "$date": "1970-01-19T09:46:27.234Z"
+  },
+  "currentEnd": {
+    "$date": "1970-01-19T10:06:36.834Z"
+  },
+  "customerId": "cus_HLG5s68BStm3gO",
+  "subscriptionStatus": "trialing",
+  "planId": "plan_H1nKqRb3tOWndE",
+  "currentStartAt": {
+    "$date": "1970-01-19T09:46:27.234Z"
+  },
+  "subscriptionId": "sub_HLG5I5uynMdBNw",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.SubscriptionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecb62e29378772da8e917c3"
+  },
+  "vendorName": "Stripe",
+  "omotoAccountId": 8,
+  "invoiceId": "in_1GmZcTL7dMvc9z2jIgQqKqXF",
+  "createdAt": {
+    "$date": "1970-01-19T09:46:27.425Z"
+  },
+  "currentEnd": {
+    "$date": "1970-01-19T10:06:37.025Z"
+  },
+  "customerId": "cus_HLG8iLgGfHN5Co",
+  "subscriptionStatus": "trialing",
+  "planId": "plan_H1nKqRb3tOWndE",
+  "currentStartAt": {
+    "$date": "1970-01-19T09:46:27.425Z"
+  },
+  "subscriptionId": "sub_HLG8WJ6qk1l7wO",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.SubscriptionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf9ec69378772dea001633"
+  },
+  "vendorName": "Stripe",
+  "omotoAccountId": 11,
+  "invoiceId": "in_1GnjntL7dMvc9z2j7XUYQqMt",
+  "createdAt": {
+    "$date": "1970-01-19T09:51:04.901Z"
+  },
+  "currentEnd": {
+    "$date": "1970-01-19T10:11:14.501Z"
+  },
+  "customerId": "cus_HMSjsEZvAyJR5g",
+  "subscriptionStatus": "trialing",
+  "planId": "plan_H1nKqRb3tOWndE",
+  "currentStartAt": {
+    "$date": "1970-01-19T09:51:04.901Z"
+  },
+  "subscriptionId": "sub_HMSjoasiIvDULR",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.SubscriptionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf9f409378772dea001635"
+  },
+  "vendorName": "Stripe",
+  "omotoAccountId": 12,
+  "invoiceId": "in_1GnjprL7dMvc9z2jz5VcJN03",
+  "createdAt": {
+    "$date": "1970-01-19T09:51:05.023Z"
+  },
+  "currentEnd": {
+    "$date": "1970-01-19T10:11:14.623Z"
+  },
+  "customerId": "cus_HMSlV9O14057n6",
+  "subscriptionStatus": "trialing",
+  "planId": "plan_H1nKqRb3tOWndE",
+  "currentStartAt": {
+    "$date": "1970-01-19T09:51:05.023Z"
+  },
+  "subscriptionId": "sub_HMSlJspYtiHS0a",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.SubscriptionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf9f5c9378772dea001637"
+  },
+  "vendorName": "Stripe",
+  "omotoAccountId": 13,
+  "invoiceId": "in_1GnjqJL7dMvc9z2jeY1DpqOZ",
+  "createdAt": {
+    "$date": "1970-01-19T09:51:05.051Z"
+  },
+  "currentEnd": {
+    "$date": "1970-01-19T10:11:14.651Z"
+  },
+  "customerId": "cus_HMSlHQ4dyAC7qS",
+  "subscriptionStatus": "trialing",
+  "planId": "plan_H1nKqRb3tOWndE",
+  "currentStartAt": {
+    "$date": "1970-01-19T09:51:05.051Z"
+  },
+  "subscriptionId": "sub_HMSl4fz9MdY6xR",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.SubscriptionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecfa71b9378772dea001643"
+  },
+  "vendorName": "Stripe",
+  "omotoAccountId": 14,
+  "invoiceId": "in_1GnkMJL7dMvc9z2jiu5VU0sG",
+  "createdAt": {
+    "$date": "1970-01-19T09:51:07.035Z"
+  },
+  "currentEnd": {
+    "$date": "1970-01-19T10:11:16.635Z"
+  },
+  "customerId": "cus_HMTIBpkjokNKjD",
+  "subscriptionStatus": "trialing",
+  "planId": "plan_H1nKqRb3tOWndE",
+  "currentStartAt": {
+    "$date": "1970-01-19T09:51:07.035Z"
+  },
+  "subscriptionId": "sub_HMTIxRi5l6sLE9",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.SubscriptionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecfbca5937877417b64d91b"
+  },
+  "vendorName": "Stripe",
+  "omotoAccountId": 4,
+  "invoiceId": "in_1GnlnEL7dMvc9z2jjdjobpeN",
+  "createdAt": {
+    "$date": "1970-01-19T09:51:12.548Z"
+  },
+  "currentEnd": {
+    "$date": "1970-01-19T10:11:22.148Z"
+  },
+  "customerId": "cus_HMUmShJaK0esgF",
+  "subscriptionStatus": "trialing",
+  "planId": "plan_H1nKqRb3tOWndE",
+  "currentStartAt": {
+    "$date": "1970-01-19T09:51:12.548Z"
+  },
+  "subscriptionId": "sub_HMUmBvWZtGgJjo",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.SubscriptionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0af46937877417b64d926"
+  },
+  "vendorName": "Stripe",
+  "omotoAccountId": 16,
+  "invoiceId": "in_1Go1x3L7dMvc9z2jEP2MGZ9v",
+  "createdAt": {
+    "$date": "1970-01-19T09:52:14.661Z"
+  },
+  "currentEnd": {
+    "$date": "1970-01-19T10:12:24.261Z"
+  },
+  "customerId": "cus_HMlUjI3RLhIGoj",
+  "subscriptionStatus": "trialing",
+  "planId": "plan_H1nKqRb3tOWndE",
+  "currentStartAt": {
+    "$date": "1970-01-19T09:52:14.661Z"
+  },
+  "subscriptionId": "sub_HMlUGhUxlBsrgl",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.SubscriptionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0fd319378775b26ef9d3a"
+  },
+  "vendorName": "Stripe",
+  "omotoAccountId": 19,
+  "invoiceId": "in_1Go78mL7dMvc9z2jY9maJZMV",
+  "createdAt": {
+    "$date": "1970-01-19T09:52:34.608Z"
+  },
+  "currentEnd": {
+    "$date": "1970-01-19T10:12:44.208Z"
+  },
+  "customerId": "cus_HMqqZW7RJZUSuq",
+  "subscriptionStatus": "trialing",
+  "planId": "plan_Gvqghq2kMrZ4wP",
+  "currentStartAt": {
+    "$date": "1970-01-19T09:52:34.608Z"
+  },
+  "subscriptionId": "sub_HMqq2CJ00ZeKZG",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.SubscriptionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed242e193787745cef12ac3"
+  },
+  "vendorName": "Stripe",
+  "omotoAccountId": 32,
+  "invoiceId": "in_1GoSpYL7dMvc9z2jG4vEk99F",
+  "createdAt": {
+    "$date": "1970-01-19T09:53:57.984Z"
+  },
+  "currentEnd": {
+    "$date": "1970-01-19T10:14:07.584Z"
+  },
+  "customerId": "cus_HNDGCr94cKhD3R",
+  "subscriptionStatus": "trialing",
+  "planId": "plan_H1nKqRb3tOWndE",
+  "currentStartAt": {
+    "$date": "1970-01-19T09:53:57.984Z"
+  },
+  "subscriptionId": "sub_HNDG83glTkeE2c",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.SubscriptionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed242e893787745cef12ac8"
+  },
+  "vendorName": "Stripe",
+  "omotoAccountId": 33,
+  "invoiceId": "in_1GoSpgL7dMvc9z2jhRDfdh9U",
+  "createdAt": {
+    "$date": "1970-01-19T09:53:57.991Z"
+  },
+  "currentEnd": {
+    "$date": "1970-01-19T10:14:07.591Z"
+  },
+  "customerId": "cus_HNDG5ApF7AJ4VN",
+  "subscriptionStatus": "trialing",
+  "planId": "plan_H1nKqRb3tOWndE",
+  "currentStartAt": {
+    "$date": "1970-01-19T09:53:57.991Z"
+  },
+  "subscriptionId": "sub_HNDGsE07tRuowG",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.SubscriptionDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed246af93787745cef12ad8"
+  },
+  "vendorName": "Stripe",
+  "omotoAccountId": 34,
+  "invoiceId": "in_1GoT5HL7dMvc9z2jD4YfDAgW",
+  "createdAt": {
+    "$date": "1970-01-19T09:53:58.959Z"
+  },
+  "currentEnd": {
+    "$date": "1970-01-19T10:14:08.559Z"
+  },
+  "customerId": "cus_HNDWK35r5RlkPi",
+  "subscriptionStatus": "trialing",
+  "planId": "plan_H1nKqRb3tOWndE",
+  "currentStartAt": {
+    "$date": "1970-01-19T09:53:58.959Z"
+  },
+  "subscriptionId": "sub_HNDWY2eoQ4Ls3i",
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.SubscriptionDocument"
+}]

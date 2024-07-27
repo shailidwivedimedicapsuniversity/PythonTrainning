@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "5def3d9c9e44cc5ccff1e40f"
+  },
+  "surveyThemes": [
+    {
+      "name": "Omoto Default",
+      "font": {
+        "name": "Muli",
+        "url": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+      },
+      "colors": {
+        "backgroundColor": "#ffffff",
+        "primaryColor": "#4a4a4a",
+        "primaryColorDark": "#3e3e3c",
+        "footerBackgroundColor": "#f7f8f9",
+        "primaryButtonTextColor": "#ffffff",
+        "footerPrimaryColor": "#b8b9ba",
+        "footerSecondaryColor": "#ffffff",
+        "textColorPrimary": "#ffffff",
+        "textColorSecondary": "#4a4a4a"
+      }
+    },
+    {
+      "name": "Athens Grey",
+      "font": {
+        "name": "Muli",
+        "url": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+      },
+      "colors": {
+        "backgroundColor": "#f2f3f5",
+        "primaryColor": "#37bfc9",
+        "primaryColorDark": "#048C96",
+        "footerBackgroundColor": "#f7f8f9",
+        "primaryButtonTextColor": "#ffffff",
+        "footerPrimaryColor": "#b8b9ba",
+        "footerSecondaryColor": "#ffffff",
+        "textColorPrimary": "#ffffff",
+        "textColorSecondary": "#4a4a4a"
+      }
+    },
+    {
+      "name": "Goldenrod",
+      "font": {
+        "name": "Muli",
+        "url": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+      },
+      "colors": {
+        "backgroundColor": "#fbdd64",
+        "primaryColor": "#ff6b6c",
+        "primaryColorDark": "#CC3839",
+        "footerBackgroundColor": "#fdeeb1",
+        "footerPrimaryColor": "#bdae71",
+        "footerSecondaryColor": "#fef6d8",
+        "primaryButtonTextColor": "#ffffff",
+        "textColorPrimary": "#ffffff",
+        "textColorSecondary": "#4a4a4a"
+      }
+    },
+    {
+      "name": "Sandy sunset",
+      "font": {
+        "name": "Muli",
+        "url": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+      },
+      "colors": {
+        "backgroundColor": "#f4a06e",
+        "primaryColor": "#004e89",
+        "primaryColorDark": "#001B56",
+        "footerBackgroundColor": "#f9cfb6",
+        "footerPrimaryColor": "#b98f76",
+        "footerSecondaryColor": "#fce7da",
+        "primaryButtonTextColor": "#ffffff",
+        "textColorPrimary": "#ffffff",
+        "textColorSecondary": "#4a4a4a"
+      }
+    },
+    {
+      "name": "Dark knight",
+      "font": {
+        "name": "Muli",
+        "url": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+      },
+      "colors": {
+        "backgroundColor": "#141617",
+        "primaryColor": "#f8f4e3",
+        "primaryColorDark": "#C5C1B0",
+        "footerBackgroundColor": "#898a8b",
+        "footerPrimaryColor": "#ffffff",
+        "footerSecondaryColor": "#c4c4c5",
+        "textColorPrimary": "#4a4a4a",
+        "textColorSecondary": "#ffffff",
+        "primaryButtonTextColor": "#4a4a4a"
+      }
+    },
+    {
+      "name": "Deep sea",
+      "font": {
+        "name": "Muli",
+        "url": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+      },
+      "colors": {
+        "backgroundColor": "#b1cbb3",
+        "primaryColor": "#71677c",
+        "primaryColorDark": "#3E3449",
+        "footerBackgroundColor": "#d8e5d9",
+        "footerPrimaryColor": "#98a599",
+        "footerSecondaryColor": "#ebf2ec",
+        "primaryButtonTextColor": "#ffffff",
+        "textColorPrimary": "#ffffff",
+        "textColorSecondary": "#4a4a4a"
+      }
+    },
+    {
+      "name": "Burgundy",
+      "font": {
+        "name": "Muli",
+        "url": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+      },
+      "colors": {
+        "backgroundColor": "#9b5a56",
+        "primaryColor": "#f8f4e3",
+        "primaryColorDark": "#C5C1B0",
+        "footerBackgroundColor": "#cdacaa",
+        "primaryButtonTextColor": "#4a4a4a",
+        "footerPrimaryColor": "#8d6c6a",
+        "footerSecondaryColor": "#e6d5d4",
+        "textColorPrimary": "#ffffff",
+        "textColorSecondary": "#4a4a4a"
+      }
+    }
+  ]
+}]

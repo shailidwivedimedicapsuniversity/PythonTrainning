@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "5ed252e65318208bff4b5cd3"
+  },
+  "accountId": 4,
+  "reportName": "MANAGE-USERS",
+  "filters": [
+    {
+      "name": "role",
+      "displayName": "Role",
+      "values": [
+        {
+          "name": "Admin",
+          "displayName": "Yes"
+        },
+        {
+          "name": "User",
+          "displayName": "Yes"
+        },
+        {
+          "name": "Owner",
+          "displayName": "Yes"
+        }
+      ]
+    }
+  ],
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.ReportsDisplayFieldsFiltersAndSegments"
+},
+{
+  "_id": {
+    "$oid": "5ed253645318208bff4b5cd4"
+  },
+  "accountId": 4,
+  "reportName": "SURVEY LIST",
+  "filters": [
+    {
+      "name": "status",
+      "displayName": "Accepting responses",
+      "values": [
+        {
+          "name": "ACTIVE",
+          "displayName": "Yes"
+        },
+        {
+          "name": "INACTIVE",
+          "displayName": "No"
+        }
+      ]
+    }
+  ],
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.ReportsDisplayFieldsFiltersAndSegments"
+},
+{
+  "_id": {
+    "$oid": "5ed253e05318208bff4b5cd5"
+  },
+  "accountId": 4,
+  "reportName": "CAMPAIGN LIST",
+  "filters": [
+    {
+      "name": "channel",
+      "displayName": "Channel",
+      "values": [
+        {
+          "name": "mail",
+          "displayName": "Email"
+        },
+        {
+          "name": "popup",
+          "displayName": "Pop Up"
+        }
+      ]
+    }
+  ],
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.ReportsDisplayFieldsFiltersAndSegments"
+}]

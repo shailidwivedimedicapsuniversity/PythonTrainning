@@ -1,0 +1,525 @@
+[{
+  "_id": {
+    "$oid": "5ecd109e9378774fa2b87a70"
+  },
+  "campaignDocumentId": "5ecd0ff89378774fa2b87a6f",
+  "surveyDocumentId": "5ecd0fda9378774fa2b87a69",
+  "audiences": [
+    "5ecd0ff19378774fa2b87a6c"
+  ],
+  "accountId": 1,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-26T12:50:38.606Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-26T12:50:38.606Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecd11ae9378774fa2b87a78"
+  },
+  "campaignDocumentId": "5ecd11979378774fa2b87a77",
+  "surveyDocumentId": "5ecd11749378774fa2b87a71",
+  "audiences": [
+    "5ecd118f9378774fa2b87a74"
+  ],
+  "accountId": 1,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-26T12:55:10.208Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-26T12:55:10.208Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecd12cc9378774fa2b87a80"
+  },
+  "campaignDocumentId": "5ecd12bb9378774fa2b87a7f",
+  "surveyDocumentId": "5ecd129e9378774fa2b87a79",
+  "audiences": [
+    "5ecd12b59378774fa2b87a7c"
+  ],
+  "accountId": 1,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-26T12:59:56.848Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-26T12:59:56.848Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecd15e89378774fa2b87a8c"
+  },
+  "campaignDocumentId": "5ecd15db9378774fa2b87a8b",
+  "surveyDocumentId": "5ecd15c29378774fa2b87a81",
+  "audiences": [
+    "5ecd15d59378774fa2b87a84"
+  ],
+  "accountId": 1,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-26T13:13:12.872Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-26T13:13:12.872Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecd17419378774fa2b87a98"
+  },
+  "campaignDocumentId": "5ecd171e9378774fa2b87a97",
+  "surveyDocumentId": "5ecd16f99378774fa2b87a8d",
+  "audiences": [
+    "5ecd17179378774fa2b87a90"
+  ],
+  "accountId": 1,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-26T13:18:57.068Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-26T13:18:57.068Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf92039378772dea00161e"
+  },
+  "campaignDocumentId": "5ecf90699378772dea00161c",
+  "surveyDocumentId": "5ecf90389378772dea00161a",
+  "audiences": [
+    "5ecf8b969378772dea001614"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-28T10:27:15.760Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T10:27:15.760Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf99479378772dea001628"
+  },
+  "campaignDocumentId": "5ecf94b79378772dea001621",
+  "surveyDocumentId": "5ecf944e9378772dea00161f",
+  "audiences": [
+    "5ecf8b969378772dea001614"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-28T10:58:15.373Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T10:58:15.373Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf99869378772dea001629"
+  },
+  "campaignDocumentId": "5ecf94b79378772dea001621",
+  "surveyDocumentId": "5ecf944e9378772dea00161f",
+  "audiences": [
+    "5ecf8b969378772dea001614"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-28T10:59:18.096Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T10:59:18.096Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf9aa69378772dea00162a"
+  },
+  "campaignDocumentId": "5ecf94b79378772dea001621",
+  "surveyDocumentId": "5ecf944e9378772dea00161f",
+  "audiences": [
+    "5ecf8b969378772dea001614"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-28T11:04:06.117Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T11:04:06.117Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecf9c719378772dea00162e"
+  },
+  "campaignDocumentId": "5ecf9c669378772dea00162d",
+  "surveyDocumentId": "5ecf9c429378772dea00162b",
+  "audiences": [
+    "5ecf8b969378772dea001614"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-28T11:11:45.281Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T11:11:45.281Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecfb023937877417b64d910"
+  },
+  "campaignDocumentId": "5ecf9c669378772dea00162d",
+  "surveyDocumentId": "5ecf9c429378772dea00162b",
+  "audiences": [
+    "5ecf8b969378772dea001614"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-28T12:35:47.654Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T12:35:47.654Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ecfb100937877417b64d911"
+  },
+  "campaignDocumentId": "5ecf9c669378772dea00162d",
+  "surveyDocumentId": "5ecf9c429378772dea00162b",
+  "audiences": [
+    "5ecf8b969378772dea001614"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-28T12:39:28.530Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-28T12:39:28.530Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0c731937877417b64d95c"
+  },
+  "campaignDocumentId": "5ed0c709937877417b64d95b",
+  "surveyDocumentId": "5ed0c6d7937877417b64d959",
+  "audiences": [
+    "5ed0be57937877417b64d92f"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-29T08:26:25.081Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T08:26:25.081Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0c89a937877417b64d968"
+  },
+  "campaignDocumentId": "5ed0c889937877417b64d967",
+  "surveyDocumentId": "5ed0c856937877417b64d95d",
+  "audiences": [
+    "5ed0c87f937877417b64d960"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-29T08:32:26.766Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T08:32:26.766Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0d487937877417b64d976"
+  },
+  "campaignDocumentId": "5ed0d467937877417b64d975",
+  "surveyDocumentId": "5ed0ce20937877417b64d96b",
+  "audiences": [
+    "5ed0d443937877417b64d972"
+  ],
+  "accountId": 18,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-29T09:23:19.779Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T09:23:19.779Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0f3b29378775b26ef9d28"
+  },
+  "campaignDocumentId": "5ed0f3a39378775b26ef9d27",
+  "surveyDocumentId": "5ed0f3889378775b26ef9d25",
+  "audiences": [
+    "5ed0be57937877417b64d92f"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-29T11:36:18.071Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T11:36:18.071Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0f44a9378775b26ef9d2d"
+  },
+  "campaignDocumentId": "5ed0f3a39378775b26ef9d27",
+  "surveyDocumentId": "5ed0f3889378775b26ef9d25",
+  "audiences": [
+    "5ed0f42e9378775b26ef9d2a"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-29T11:38:50.550Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T11:38:50.550Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed0fb0f9378775b26ef9d39"
+  },
+  "campaignDocumentId": "5ed0fb009378775b26ef9d38",
+  "surveyDocumentId": "5ed0fa279378775b26ef9d2e",
+  "audiences": [
+    "5ed0faf99378775b26ef9d31"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-29T12:07:43.208Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T12:07:43.208Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed2250e9378770ef8954928"
+  },
+  "campaignDocumentId": "5ed224f99378770ef8954927",
+  "surveyDocumentId": "5ed2231b9378770ef895491e",
+  "audiences": [
+    "5ed224ec9378770ef8954924"
+  ],
+  "accountId": 19,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-30T09:19:10.836Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T09:19:10.836Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed235699378770ef8954937"
+  },
+  "campaignDocumentId": "5ed235629378770ef8954936",
+  "surveyDocumentId": "5ed235039378770ef8954934",
+  "audiences": [
+    "5ed20c2f9378770ef8954914"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-30T10:28:57.787Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T10:28:57.787Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed237599378770ef8954938"
+  },
+  "campaignDocumentId": "5ed235629378770ef8954936",
+  "surveyDocumentId": "5ed235039378770ef8954934",
+  "audiences": [
+    "5ed20c2f9378770ef8954914"
+  ],
+  "accountId": 4,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-30T10:37:13.768Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T10:37:13.768Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed245e993787745cef12ad4"
+  },
+  "campaignDocumentId": "5ed245de93787745cef12ad3",
+  "surveyDocumentId": "5ed2459693787745cef12acd",
+  "audiences": [
+    "5ed245be93787745cef12ad0"
+  ],
+  "accountId": 31,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-05-30T11:39:21.094Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-30T11:39:21.094Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5ed24c8b93787745cef12ae8"
+  },
+  "campaignDocumentId": "5ed24c6b93787745cef12ae7",
+  "reminderCampaignDocumentId": "5ed24c9c93787745cef12ae9",
+  "audiences": [
+    "5ed24c6193787745cef12ae0"
+  ],
+  "accountId": 34,
+  "userId": 0,
+  "updatedAt": {
+    "$date": "2020-05-30T12:08:31.278Z"
+  },
+  "numberOfReminder": 1,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 3,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+},
+{
+  "_id": {
+    "$oid": "5f0af9659378772731dc90d5"
+  },
+  "campaignDocumentId": "5f0af93a9378772731dc90d4",
+  "surveyDocumentId": "5f0af7909378772731dc90d0",
+  "audiences": [
+    "5ed24c6193787745cef12ae0"
+  ],
+  "accountId": 34,
+  "userId": 0,
+  "createdAt": {
+    "$date": "2020-07-12T11:52:05.672Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-12T11:52:05.672Z"
+  },
+  "numberOfReminder": 0,
+  "numberOfReminderSent": 0,
+  "reminderInterval": 0,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.CampaignRecipientsDocument"
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "5cb6f70ceecafc61963ceaed"
+  },
+  "questionTypes": [
+    "Nps",
+    "Choice",
+    "Date",
+    "Short text",
+    "Long text",
+    "Email",
+    "Yes / No",
+    "Single Select",
+    "Rating",
+    "Drop down",
+    "Phone number",
+    "Statement",
+    "Legal",
+    "Number",
+    "Website"
+  ]
+}]

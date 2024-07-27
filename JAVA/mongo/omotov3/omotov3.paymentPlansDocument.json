@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "5e9aa69f84edb52fabb146c6"
+  },
+  "plan": "Entre",
+  "trailDays": 14,
+  "isTest": true,
+  "price": 29,
+  "planId": "plan_Gvqghq2kMrZ4wP",
+  "level": 1,
+  "features": [
+    "200 emails/mo",
+    "2 users",
+    "Email support",
+    "30-days analysis"
+  ],
+  "isSelected": false,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.PaymentPlansDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9aa69f84edb52fabb146c7"
+  },
+  "plan": "Grande",
+  "trailDays": 14,
+  "isTest": true,
+  "price": 39,
+  "planId": "plan_Gvqj9la1i8f6VY",
+  "level": 2,
+  "features": [
+    "200 emails/mo",
+    "2 users",
+    "Email support",
+    "30-days analysis"
+  ],
+  "isSelected": false,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.PaymentPlansDocument"
+},
+{
+  "_id": {
+    "$oid": "5e9aa69f84edb52fabb146c8"
+  },
+  "plan": "Elite",
+  "trailDays": 14,
+  "isTest": true,
+  "price": 49,
+  "planId": "plan_H1nKqRb3tOWndE",
+  "level": 3,
+  "features": [
+    "200 emails/mo",
+    "2 users",
+    "Email support",
+    "30-days analysis"
+  ],
+  "isSelected": false,
+  "_class": "io.omoto.fms.infrastructure.entities.mongo.PaymentPlansDocument"
+}]
